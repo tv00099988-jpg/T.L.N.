@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "T.N.L Football Live",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "T.N.L",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "id": "com.tnl.football",
+  "description": "Live football streaming app"
+}
