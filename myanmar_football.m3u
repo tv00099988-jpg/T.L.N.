@@ -1,9 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Sports (အားကစား)", မန်စီးတီး vs ဘုန်းမောက် (Link 2 - VTV5)
+#EXTINF:-1 tvg-logo="" group-title="Sports ", မန်စီးတီး vs ဘုန်းမောက် (Link 2 - VTV5)
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19201/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="နယ်သာလန် (အားကစား)", ESPN 1 (Link 2 - VTV5)
+#EXTINF:-1 tvg-logo="" group-title="နယ်သာလန် လိဒ်", ESPN 1
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19201/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="နယ်သာလန် လိဒ်", ESPN 2
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19202/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="နယ်သာလန် လိဒ်", ESPN 3
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19203/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="နယ်သာလန် လိဒ်", ESPN 4
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19204/index.m3u8
