@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Myanmar Football", မန်ယူ vs အေစီမီလန် (Link 1)
+https://pull.qjkngv.com/live/stream-375977_lhd.flv?auth_key=1786902262-0-0-6d23ec32d43baaaed7a2f81ea0e25606
+
+#EXTINF:-1 tvg-logo="" group-title="Myanmar Football", မန်ယူ vs အေစီမီလန် (Link 2 - VTV5)
+https://vtv-live-push-token.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8?hdnts=exp=1786455681~acl=/hls/live/2029311/vtv5/*~hmac=853b808b88a007c837d8c72c3d1197c249320452771f2fb8302d76eb9441c314
+
+#EXTINF:-1 tvg-logo="" group-title="Myanmar Football", အာဆင်နယ် vs မန်စီးတီး (Link 1)
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1786901700-0-0-ebdaa0fad1271be6e2fdb5161094b603
