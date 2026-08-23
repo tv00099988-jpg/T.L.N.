@@ -1,7 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="Sports", မန်စီးတီး vs ဘုန်းမောက် (Link 2 - VTV5)
-http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19201/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLRRFys/Sport-Klub.jpg" group-title="All Sports", SK 1
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7269/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLRRFys/Sport-Klub.jpg" group-title="All Sports", SK 2
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7270/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLRRFys/Sport-Klub.jpg" group-title="All Sports", SK 3
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7271/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLRRFys/Sport-Klub.jpg" group-title="All Sports", SK 4
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7272/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLRRFys/Sport-Klub.jpg" group-title="All Sports", SK 5
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7273/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLRRFys/Sport-Klub.jpg" group-title="All Sports", SK 6
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7274/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yHjpxVh/41l-Chb5Q-KL.png" group-title="နယ်သာလန် လိဒ်", ESPN 1
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19201/index.m3u8
@@ -14,3 +29,11 @@ http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19203/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yHjpxVh/41l-Chb5Q-KL.png" group-title="နယ်သာလန် လိဒ်", ESPN 4
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19204/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 1 - vsport)
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19163/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 2 - monomax)
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1776175.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 3 - socolive)
