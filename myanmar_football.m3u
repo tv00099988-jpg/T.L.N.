@@ -1,4 +1,57 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRMv4vdr/channels4-profile.jpg" group-title="All Sports", MoNoMax
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1776175.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDSbmYkb/95632.jpg" group-title="All Sports", Eleven Sports
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20068/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHTQ0J2s/logoyosat.png" group-title="All Sports", Setanta Sports 1
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/6543/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHTQ0J2s/logoyosat.png" group-title="All Sports", Setanta Sports 2
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/6544/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHTQ0J2s/logoyosat.png" group-title="All Sports", Setanta Sports 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2209/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFgkfFBt/Logo-Arena-Sport-Channel.jpg" group-title="All Sports", Arena Sports 1
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7329/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFgkfFBt/Logo-Arena-Sport-Channel.jpg" group-title="All Sports", Arena Sports 2
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7330/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFgkfFBt/Logo-Arena-Sport-Channel.jpg" group-title="All Sports", Arena Sports 3
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7331/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxbvn8MB/71zsc8jh5bbqfy19q6wjygs92lidx6y5.webp" group-title="All Sports", Match Football 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10015/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMswvTxG/1599458047.png" group-title="All Sports", Match Football 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10027/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd1DdHw6/images.png" group-title="All Sports", Match Football 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Fymmfv/952446ecd0c2442034f799a8386f040c-fgraphic.png" group-title="All Sports", DIGI Sports 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2523/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Fymmfv/952446ecd0c2442034f799a8386f040c-fgraphic.png" group-title="All Sports", DIGI Sports 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2522/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Fymmfv/952446ecd0c2442034f799a8386f040c-fgraphic.png" group-title="All Sports", DIGI Sports 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2524/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Fymmfv/952446ecd0c2442034f799a8386f040c-fgraphic.png" group-title="All Sports", DIGI Sports 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2538/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqGcQzx3/TV2-VF.png" group-title="All Sports", Go3 Sports 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqGcQzx3/TV2-VF.png" group-title="All Sports", Go3 Sports 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqGcQzx3/TV2-VF.png" group-title="All Sports", Go3 Sports 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6408/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLRRFys/Sport-Klub.jpg" group-title="All Sports", SK 1
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7269/index.m3u8
