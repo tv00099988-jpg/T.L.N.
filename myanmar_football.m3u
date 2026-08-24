@@ -83,14 +83,14 @@ http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19203/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yHjpxVh/41l-Chb5Q-KL.png" group-title="နယ်သာလန် လိဒ်", ESPN 4
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19204/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 1 - vsport)
-http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19163/index.m3u8
+#EXTINF:-1 tvg-logo="https://icdn.thelaziali.com/wp-content/uploads/2018/12/Bologna-vs-Lazio-1024x572.png" group-title="ယနေ့ည ပွဲစဥ်များ", ဘိုလော့နာ vs လာဇီယို (Link 1 - ည ၁၁ နာရီ)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787546100-0-0-8a9480628131a03221b7ced1c35e10d9
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 2 - monomax)
-http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1776175.ts
+#EXTINF:-1 tvg-logo="https%3A%2F%2Fartwork.espncdn.com%2Fevents%2F401882909%2F16x9%2F1280x720_20260810222143.jpg" group-title="ယနေ့ည ပွဲစဥ်များ", အိုဆာဆူနာ vs လီဗန်တေး (Link 2 - ည ၁၂ နာရီ)
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787546100-0-0-a0e717be61462045d7477e3830595c60
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 3 - socolive)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787486940-0-0-0c1a57ba8a697472e09e54c8c039ba64
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/events/401067810/16x9/1280x720_201903171747.jpg" group-title="ယနေ့ည ပွဲစဥ်များ", ရိုးမား vs ဖီအိုရင်တီးနား (Link 3 - ည ၁.၁၅ နာရီ)
+https://pull.qjkngv.com/live/stream-284564_lhd.m3u8?auth_key=1787546308-0-0-631ae6b4fa81aefa293fbb56b043c4b8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 4 - socolive)
 http://ozpcbuhs.tvclub.xyz/iptv/CM97MWV67U6TU3/6543/index.m3u8
