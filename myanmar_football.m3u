@@ -130,5 +130,6 @@ https://pull.qjkngv.com/live/stream-284564_lhd.m3u8?auth_key=1787546308-0-0-631a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 4 - socolive)
 http://ozpcbuhs.tvclub.xyz/iptv/CM97MWV67U6TU3/6543/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 5 - fmp)
-http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31602/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsyk6Hcx/fe1e5940-d010-11ee-9a5b-e35447f6c53b.png" group-title="ယနေ့ည ပွဲစဥ်များ", မန်စီးတီး vs ဘုန်းမောက် (Link 5 - test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://player2.originpullstream.com/live/channel24.m3u8|referer=https://fonts.googleapis.com/
