@@ -135,5 +135,8 @@ http://ozpcbuhs.tvclub.xyz/iptv/CM97MWV67U6TU3/6543/index.m3u8
 https://player2.originpullstream.com/live/channel24.m3u8|referer=https://fonts.googleapis.com/
 
 #EXTM3U
-#EXTINF:-1 tvg-name="Channel 16" group-title="Live", Channel 1
-https://player2.originpullstream.com/live/channel16.m3u8|Referer=https://xlz.livecamercdn.com/&User-Agent=Mozilla/5.0 (Linux; Android 10)
+#EXTINF:-1 tvg-name="Channel 16" group-title="Live", Channel test
+#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Linux; Android 10)
+https://player2.originpullstream.com/live/channel16.m3u8|Referer=https://xlz.livecamercdn.com/
+
+
