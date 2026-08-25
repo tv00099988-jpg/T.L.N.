@@ -71,6 +71,41 @@ http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7273/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLRRFys/Sport-Klub.jpg" group-title="All Sports", SK 6
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/7274/index.m3u8
 
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | လာလီဂါ",ES: (HD) DAZN LALIGA 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/25125 
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | လာလီဂါ",ES: (HD REPUESTO) DAZN LALIGA 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/57344
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | လာလီဂါ",ES: (HD REPUESTO2) DAZN 
+ http://neosfpoo.top:8080/8461773685460/881b84d889e9/63431
+ 
+ #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | လာလီဂါ",ES: (FHD) DAZN LALIGA 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/54668 
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | လာလီဂါ",ES: (FHD REPUESTO) DAZN LALIGA
+ http://neosfpoo.top:8080/8461773685460/881b84d889e9/57359 
+
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | လာလီဂါ",ES: DAZN LALIGA 2 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/57476
+
+  
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | လာလီဂါ",ES: (HD) M+ LALIGA 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/5758 
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | လာလီဂါ",ES: (HD REPUESTO) M+ LALIGA 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/54535 
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | လာလီဂါ",ES: (FHD) M+ LALIGA 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/54532 
+
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | လာလီဂါ",ES: (FHD REPUESTO) M+ LALIGA 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/57362 
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | လာလီဂါ",ES: M+ COPA DEL REY 
+http://neosfpoo.top:8080/8461773685460/881b84d889e9/58303 
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yHjpxVh/41l-Chb5Q-KL.png" group-title="နယ်သာလန် လိဒ်", ESPN 1
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19201/index.m3u8
 
