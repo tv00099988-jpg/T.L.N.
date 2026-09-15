@@ -140,5 +140,8 @@ https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788065761-0-0-971d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvckFQbQ/unnamed.png" group-title="ယနေ့ည ပွဲစဥ်များ",Freiburg vs Werder Bremen(ည ၈ - နာရီ)
 https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0176ae503549befce8b92bec995c148d&txTime=6aa0b802
 
+#EXTINF:-1 group-title="SPORTS",bein Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
 
 
