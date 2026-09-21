@@ -352,3 +352,12 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 #EXTINF:-1 group-title="All Sports",Media Sport HD
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
+#EXTINF:-1 group-title="LIVE",MYANMAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 group-title="LIVE",MYANMAR
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789978863-0-0-975d01e2e1ae6ccecc73557a002feb15
+
+#EXTINF:-1 group-title="LIVE",MYANMAR
+https://hwyypull.ncctrials.com/live/stream-672354_lhd.m3u8?auth_key=1789978975-0-0-04dce983ed399c55ac1214e5dff1dae7
