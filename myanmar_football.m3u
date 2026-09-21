@@ -352,12 +352,18 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 #EXTINF:-1 group-title="All Sports",Media Sport HD
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
-#EXTINF:-1 group-title="LIVE",MYANMAR
+#EXTINF:-1 group-title="LIVE",test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 group-title="LIVE",test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 group-title="LIVE",test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 group-title="LIVE",MYANMAR
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789978863-0-0-975d01e2e1ae6ccecc73557a002feb15
-
-#EXTINF:-1 group-title="LIVE",MYANMAR
-https://hwyypull.ncctrials.com/live/stream-672354_lhd.m3u8?auth_key=1789978975-0-0-04dce983ed399c55ac1214e5dff1dae7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8Fr5WB/truc-tiep-bong-da-u19-timor-leste-vs-u19-myanmar-7-6-2026-081015-532-143901(1).jpg" group-title="LIVE",မြန်မာ နှင့် တီမော
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789988819-0-0-25c13b0b099ab1b93c76b7b97793b7a6|referer=https://xlz.domainkqt.cc/
