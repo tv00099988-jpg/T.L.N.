@@ -352,6 +352,18 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 #EXTINF:-1 group-title="All Sports",Media Sport HD
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
+#EXTINF:-1 group-title="LIVE",ဘူဂေးရီးယား
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=d1fac88cbf85cf8fd6e2ca0f53f8634f&wsABSTime=1790036513|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 group-title="LIVE",ဘူဂေးရီးယား
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 group-title="LIVE",ဘူဂေးရီးယား
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://tfzh1geauymttgozdncbsfahdgmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=c7c05c97cdd2fc4eb7070f55d5cc41e5&wsABSTime=1790036728&wsSession=b4d9dc9373241a0a5c71cd68-178999352932980&wsIPSercert=23950a626dfe771c8185713474c30e8f&wsBindIP=2&wsserid=1168234581174957797|referer=https://xlz.domainkqt.cc/
+
 #EXTINF:-1 group-title="LIVE",test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
