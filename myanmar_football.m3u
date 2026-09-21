@@ -116,15 +116,6 @@ http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19203/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yHjpxVh/41l-Chb5Q-KL.png" group-title="နယ်သာလန် လိဒ်", ESPN 4
 http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/19204/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcKq8LGy/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",Fc Utrecht vs Psv Eindhoven(ညနေ ၄ - ၄၅ နာရီ)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787977561-0-0-75179cbb3dcf275044b976f621d3844c
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6ggfJ6q/nhan-dinh-bong-da-du-doan-bodo-glimt-vs-rosenborg-vdqg-na-uy-hom-nay-2610093433.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",Bodo Glimt vs Rosenborg(ည ၇ - နာရီ)
-https://pull.fmp.live/live/live_54011_lud.m3u8?auth_key=1789837470-0-0-801cf7d13614ddee23d404a22b2889b9
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvckFQbQ/unnamed.png" group-title="ယနေ့ည ပွဲစဥ်များ",Freiburg vs Werder Bremen(ည ၈ - နာရီ)
-https://pull.fmp.live/live/live_53910_lud.m3u8?auth_key=1789827920-0-0-3cd78eb232a703441e3b7d6c3e245173
-
 #EXTINF:-1 group-title="All Sports",Setanta Sports HD UA orig
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/15183/index.m3u8
 #EXTINF:-1 group-title="All Sports",Setanta Sports+ HD UA orig
@@ -352,30 +343,30 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 #EXTINF:-1 group-title="All Sports",Media Sport HD
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
-#EXTINF:-1 group-title="LIVE",ဘူဂေးရီးယား
+#EXTINF:-1 group-title="ယနေ့ည ပွဲစဥ်များ",ဘူဂေးရီးယား
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=d1fac88cbf85cf8fd6e2ca0f53f8634f&wsABSTime=1790036513|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 group-title="LIVE",ဘူဂေးရီးယား
+#EXTINF:-1 group-title="ယနေ့ည ပွဲစဥ်များ",ဘူဂေးရီးယား
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 group-title="LIVE",ဘူဂေးရီးယား
+#EXTINF:-1 group-title="ယနေ့ည ပွဲစဥ်များ",ဘူဂေးရီးယား
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://tfzh1geauymttgozdncbsfahdgmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=c7c05c97cdd2fc4eb7070f55d5cc41e5&wsABSTime=1790036728&wsSession=b4d9dc9373241a0a5c71cd68-178999352932980&wsIPSercert=23950a626dfe771c8185713474c30e8f&wsBindIP=2&wsserid=1168234581174957797|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 group-title="LIVE",test
+#EXTINF:-1 group-title="ယနေ့ည ပွဲစဥ်များ",test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 group-title="LIVE",test
+#EXTINF:-1 group-title="ယနေ့ည ပွဲစဥ်များ",test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 group-title="LIVE",test
+#EXTINF:-1 group-title="ယနေ့ည ပွဲစဥ်များ",test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8Fr5WB/truc-tiep-bong-da-u19-timor-leste-vs-u19-myanmar-7-6-2026-081015-532-143901(1).jpg" group-title="LIVE",မြန်မာ နှင့် တီမော
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8Fr5WB/truc-tiep-bong-da-u19-timor-leste-vs-u19-myanmar-7-6-2026-081015-532-143901(1).jpg" group-title="ယနေ့ည ပွဲစဥ်များ",မြန်မာ နှင့် တီမော
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789988819-0-0-25c13b0b099ab1b93c76b7b97793b7a6|referer=https://xlz.domainkqt.cc/
