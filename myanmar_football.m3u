@@ -349,7 +349,7 @@ https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65qCsZhw/Picsart-26-09-22-07-33-22-908.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဗီယက်နမ် U23 VS ဥဇဘက်ကစ္စတန် U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790038369-0-0-7d83342581c4faeee4049aacc85a3e5f
+https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5vnmqwH/Picsart-26-09-22-07-35-28-684.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဖီလစ်ပိုင် U23 VS ကူဝိတ် U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
