@@ -345,15 +345,7 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCPLQyZ7/Picsart-26-09-22-07-31-06-561.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ကိုရီးယား U23 VS ဆော်ဒီ U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65qCsZhw/Picsart-26-09-22-07-33-22-908.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဗီယက်နမ် U23 VS ဥဇဘက်ကစ္စတန် U23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5vnmqwH/Picsart-26-09-22-07-35-28-684.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဖီလစ်ပိုင် U23 VS ကူဝိတ် U23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel19.m3u8
+https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8Fr5WB/truc-tiep-bong-da-u19-timor-leste-vs-u19-myanmar-7-6-2026-081015-532-143901(1).jpg" group-title="ယနေ့ည ပွဲစဥ်များ",မြန်မာ နှင့် တီမော
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
