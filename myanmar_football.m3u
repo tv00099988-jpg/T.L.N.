@@ -343,27 +343,27 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 #EXTINF:-1 group-title="All Sports",Media Sport HD
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ယနေ့ည ပွဲစဥ်များ",FIFA U20 အီတလီ နှင့် စပိန်
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVQBhspS/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",FIFA U20 အီတလီ နှင့် စပိန်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="" group-title="ယနေ့ည ပွဲစဥ်များ",FIFA U20 မြောက်ကိုရီးယား နှင့် ကိုလံဘီယာ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJrBcDsM/image-(1).png" group-title="ယနေ့ည ပွဲစဥ်များ",FIFA U20 မြောက်ကိုရီးယား နှင့် ကိုလံဘီယာ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="" group-title="ယနေ့ည ပွဲစဥ်များ",ဂျပန် U23 VS ထိုင်း U23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNz3HqcC/Picsart-26-09-23-08-31-58-686.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဂျပန် U23 VS ထိုင်း U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="" group-title="ယနေ့ည ပွဲစဥ်များ",ကာဂျစ္စတန် U23 VS ဟောင်ကောင် U23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwXPP55p/Picsart-26-09-23-08-35-11-375.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ကာဂျစ္စတန် U23 VS ဟောင်ကောင် U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="" group-title="ယနေ့ည ပွဲစဥ်များ",တရုတ် U23 VS ယူအေအီး U23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRqtjzWR/Picsart-26-09-23-08-36-56-886.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",တရုတ် U23 VS ယူအေအီး U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel5.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="" group-title="ယနေ့ည ပွဲစဥ်များ",အီရန် U23 VS မြောက်ကိုရီးယား U23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBSVcY4k/Picsart-26-09-23-08-38-31-490.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",အီရန် U23 VS မြောက်ကိုရီးယား U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
