@@ -488,6 +488,10 @@ https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789988819-0-0-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8Fr5WB/truc-tiep-bong-da-u19-timor-leste-vs-u19-myanmar-7-6-2026-081015-532-143901(1).jpg" group-title="ယနေ့ည ပွဲစဥ်များ",မြန်မာ နှင့် တီမော
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1790224803-0-0-278e31bf26d653ff94b1370cbba10183
 
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224822/1789984821_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",Namibia VS Congo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
+
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224861/1789984841_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဥဇဘက်ကစ္စတန် VS အီရန်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel13.m3u8|referer=https://xlz.domainkqt.cc/
@@ -505,6 +509,18 @@ https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1790225343-0-0-a0c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXf6kWGC/1789984786-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",အန်ဒိုရာ VS မော်လ်တာ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224774/1789984798_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",DR Congo VS Equatorial Guinea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224817/1789984820_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",Mauritania VS Central African Republic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnYtYRDh/1789984817-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",Libya VS Botswana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://s3.eu-south-1.amazonaws.com/cdn-eu-south-1.grintahub.com/storage/5943625/conversions/1779466270-md.webp" group-title="ယနေ့ည ပွဲစဥ်များ",ကာတာ VS ဘာရိန်း
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
