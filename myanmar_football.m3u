@@ -563,4 +563,18 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P53zW3qX/1789984838-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",Tunisia VS Uganda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel20.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85VFMMLT/1789984830-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",Zimbabwe VS Sierra Leone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790225775-0-0-1544a0450f2113a70581e9494a1e1739|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkQcYgw8/Ivory-Coast-vs-Ghana.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",Ivory Coast VS Ghana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel28.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224763/1789984794_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",Cameroon VS Comoros
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel8.m3u8|referer=https://xlz.domainkqt.cc/
