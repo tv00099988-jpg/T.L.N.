@@ -456,128 +456,135 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 #EXTINF:-1 group-title="All Sports",Media Sport HD
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224879/1789989533_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",လာအို VS ဘရူနိုင်း
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43Y0TT9N/1789984824-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",ပါလက်စတိုင်း VS နယူးဇီလန်
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel14.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://unanimodeportes.s3.amazonaws.com/wp-content/uploads/2026/09/Japon-vs-Uruguay.png" group-title="ယနေ့ည ပွဲစဥ်များ",ဂျပန် VS ဥရူဂွေး
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://unanimodeportes.s3.amazonaws.com/wp-content/uploads/2026/09/Japon-vs-Uruguay.png" group-title="ယနေ့ည ပွဲစဥ်များ",ဂျပန် VS ဥရူဂွေး
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1790224743-0-0-614f6694ddfaa0cbab03531bb6109b0b
-
-#EXTINF:-1 tvg-logo="https://assets.khelnow.com/news/uploads/2026/09/South-Korea-vs-Ecuador.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",တောင်ကိုရီးယား VS အီကွေဒေါ
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1790218023-0-0-e33d7ebd64974b6567aaa76b82ef9d01
-
-#EXTINF:-1 tvg-logo="https://assets.khelnow.com/news/uploads/2026/09/South-Korea-vs-Ecuador.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",တောင်ကိုရီးယား VS အီကွေဒေါ
-https://hwyypull.ncctrials.com/live/stream-433829_lhd.m3u8?auth_key=1790225576-0-0-4125f0864c64f1efd500e61f256207de
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224767/1789984795_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",တရုတ် VS မော်လ်ဒိုက်
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8Fr5WB/truc-tiep-bong-da-u19-timor-leste-vs-u19-myanmar-7-6-2026-081015-532-143901(1).jpg" group-title="ယနေ့ည ပွဲစဥ်များ",မြန်မာ နှင့် တီမော
-https://pull.fmp.live/live/live_54840_lud.m3u8?auth_key=1790263356-0-0-2a1f07c03b4705aa483e99b0085354ea
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8Fr5WB/truc-tiep-bong-da-u19-timor-leste-vs-u19-myanmar-7-6-2026-081015-532-143901(1).jpg" group-title="ယနေ့ည ပွဲစဥ်များ",မြန်မာ နှင့် တီမော
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8Fr5WB/truc-tiep-bong-da-u19-timor-leste-vs-u19-myanmar-7-6-2026-081015-532-143901(1).jpg" group-title="ယနေ့ည ပွဲစဥ်များ",မြန်မာ နှင့် တီမော
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1790224803-0-0-278e31bf26d653ff94b1370cbba10183
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224822/1789984821_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",Namibia VS Congo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224861/1789984841_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဥဇဘက်ကစ္စတန် VS အီရန်
+#EXTINF:-1 tvg-logo="https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/content/2024/04/26/truc-tiep-bong-da-u23-uzbekistan-vs-saudi-arabia-26-4-184543_304-192706.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",a ဥဇဘက်ကစ္စတန် U23 VS ဆော်ဒီ U23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel13.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224861/1789984841_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဥဇဘက်ကစ္စတန် VS အီရန်
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1790224923-0-0-ee0152bf57e8e92d6ec849c5aa6dda6c
-
-#EXTINF:-1 tvg-logo="https://daknong.1cdn.vn/thumbs/1200x800/2026/09/22/lich-su-13-tran-doi-dau-uae-vs-yemen-11-chien-thang-va-cai-duyen-gulf-cup-cua-uae.png" group-title="ယနေ့ည ပွဲစဥ်များ",ယူအေအီး VS ယီမင်
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RC3vsYd6/images.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",b တရုတ် အမျိုးသမီး VS ဗီယက်နမ် အမျိုးသမီး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://daknong.1cdn.vn/thumbs/1200x800/2026/09/22/lich-su-13-tran-doi-dau-uae-vs-yemen-11-chien-thang-va-cai-duyen-gulf-cup-cua-uae.png" group-title="ယနေ့ည ပွဲစဥ်များ",ယူအေအီး VS ယီမင်
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1790225343-0-0-a0c7d9edef8ecb98cc48d855d557b763
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXf6kWGC/1789984786-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",အန်ဒိုရာ VS မော်လ်တာ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLrhcgTg/AFCWA-THMB-26-Chinese-Taipei-Main-DPRKorea-HIGH-3771957-1920x1080.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",b မြောက်ကိုရီးယား အမျိုးသမီး VS ထိုင်ဝမ် အမျိုးသမီး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224774/1789984798_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",DR Congo VS Equatorial Guinea
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224875/1789989532_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",c ဘင်္ဂလားဒေ့ VS မလေးရှား
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224817/1789984820_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",Mauritania VS Central African Republic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnYtYRDh/1789984817-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",Libya VS Botswana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://s3.eu-south-1.amazonaws.com/cdn-eu-south-1.grintahub.com/storage/5943625/conversions/1779466270-md.webp" group-title="ယနေ့ည ပွဲစဥ်များ",ကာတာ VS ဘာရိန်း
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGLxY0hY/images.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",d အီတလီ U20 နှင့် အင်္ဂလန် U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel9.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224832/1789984825_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ပေါ်တူဂီ VS ဝေလ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224832/1789984825_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ပေါ်တူဂီ VS ဝေလ
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1790225523-0-0-d69bbe6bc002bc071713e835c2ef7396
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtmsF30z/1789984822-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",နယ်သာလန် VS ဂျာမဏီ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtmsF30z/1789984822-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",နယ်သာလန် VS ဂျာမဏီ
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1790225463-0-0-6ad539ddc353460855e5b967252383ab
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224828/1789984823_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",နော်ဝေး VS ဒိန်းမတ်
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224828/1789984823_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",နော်ဝေး VS ဒိန်းမတ်
-https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8?auth_key=1790225696-0-0-476cbe214ace7bcc673410f0b777c694
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224751/1789984790_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",သြစတီးယား VS အစ္စရေး
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224841/1789984829_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ဆားဘီးယား VS ဂရိ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224812/1789984817_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",လက်ချင်စတိန်း VS လစ်သူနီးယား
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224808/1789984816_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",ကိုဆိုဗို VS အိုင်ယာလန်
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P53zW3qX/1789984838-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",Tunisia VS Uganda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel20.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85VFMMLT/1789984830-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",Zimbabwe VS Sierra Leone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790225775-0-0-1544a0450f2113a70581e9494a1e1739|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkQcYgw8/Ivory-Coast-vs-Ghana.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",Ivory Coast VS Ghana
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224750/1789984789_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",e သြစတေးလျ VS ဘရာဇီး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel28.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224763/1789984794_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",Cameroon VS Comoros
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBpqYhKM/AFCWA-THMB-26-Korea-Republic-Main-Uzbekistan-Main-m5z8t-3765236-1920x1080.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",f တောင်ကိုရီးယား အမျိုးသမီး VS ဥဇဘက်ကစ္စတန် အမျိုးသမီး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.zundrixmediapipeline.com/live/channel8.m3u8|referer=https://xlz.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htPH3yW5/Picsart-26-09-25-10-35-33-192.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",f ဂျပန် အမျိုးသမီး VS ဖီလစ်ပိုင် အမျိုးသမီး
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel4.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yj9J2Q3/Picsart-26-09-25-10-38-40-601.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",f တောင်ကိုရီးယား U23 VS ဗီယက်နမ် U23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXy87wcb/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",g အင်ဒိုနီးရှား VS စင်ကာပူ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224854/1789984837_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",g တန်ဇန်းနီးယား VS ဂီနီ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel7.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224840/1789984828_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",g မိုဘမ်ဘစ် VS ဆီနီဂေါ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224824/1789984822_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",h နိုင်ဂျာ VS လီဆိုသို
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel10.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMp7vb3V/1789984787-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i အာမေးနီးယား VS လတ်ဗီးယား
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224784/1789984805_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",i ဂျော်ဂျီယာ VS အိုင်ယာလန်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel5.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yNxT21k/1789984826-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i ရဝမ်ဒါ VS လိုက်ဘေးရီးယား
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel16.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224825/1789984822_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i နိုက်ဂျီရီးယား VS မဒါဂတ်စကာ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel4.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt1xv7Dv/1789984835-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",i ဆူဒန် VS အီသိုးပီးယား
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224814/1789984819_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i မော်လဝီ VS တောင်ဆူဒန်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel24.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224783/1789984804_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i ဂမ်ဘီယာ VS ဆိုမာလီ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel14.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224855/1789984837_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i တိုဂို VS ဘူရွန်ဒီ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224799/1789984812_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",j အီတလီ VS ဘယ်လ်ဂျီယံ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsHfhKvP/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",j တူရကီ VS ပြင်သစ်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=e8e3af67db208ed7acbeb9db8ee540d2&wsABSTime=1790345208|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJbQRH0Y/1789984836-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",j ဆွီဒင် VS ရိုမေးနီးယား
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224831/1789984824_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",j ပိုလန် VS ဘော့စ်နီးယား
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001790302177-0-0-523300fc0627a044a85576b1eff064ba|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5zbVpvS/1789984820-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",j မွန်တီနီဂရိုး VS ဆိုက်ပရပ်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224795/1789984810_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",j ဟန်ဂေရီ VS ယူကရိန်း
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001790302372-0-0-4a8a2e385c709f0ea838f7f6d2fa19c6|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224821/1789984821_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",k မော်ရိုကို VS ဂါဘွန်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel23.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224744/1789984786_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",k အယ်လ်ဂျီးရီးယား VS ဇမ်ဘီယာ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=28197318bf10922fbdc92ad5fc62c6cd&wsABSTime=1790345808|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224762/1789984793_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",k ဘူကီနာဖာဆို VS ဘီနင်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=3a89f53c0c65d09393faedf6d8dd5813&wsABSTime=1790345911|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224815/1789984819_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",k မာလီ VS ကိဗ်ဗာဒီ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=71ca0af5e5cdaeb824f1a0d052381b16&wsABSTime=1790346009|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224778/1789984802_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",k အီဂျစ် VS အန်ဂိုလာ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
+
+
+
+
+
