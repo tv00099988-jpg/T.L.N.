@@ -560,6 +560,9 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.do
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=e8e3af67db208ed7acbeb9db8ee540d2&wsABSTime=1790345208|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsHfhKvP/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",j တူရကီ VS ပြင်သစ်
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1790318583-0-0-8c3351811313841d63b367f98d52a32c
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJbQRH0Y/1789984836-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",j ဆွီဒင် VS ရိုမေးနီးယား
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
