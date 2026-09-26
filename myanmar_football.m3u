@@ -504,6 +504,13 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.do
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqV9DWmD/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",h လတ်ဗီးယား U21 VS ဂျာမဏီ U21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel23.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqV9DWmD/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",h လတ်ဗီးယား U21 VS ဂျာမဏီ U21
+https://pull.qjkngv.com/live/stream-659561_lhd.m3u8?auth_key=1790433062-0-0-54ef02e1244292d6e0510368e3f57c54
+
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2024/12/29/nhan-dinh-bong-da-du-doan-oman-vs-saudi-arabia-gulf-cup-2024-hom-nay-2912201922.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i အိုမန် VS ဆော်ဒီ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel17/playlist.m3u8?wsSecret=c7a6a509c839477c1e5e6fe6428acea2&wsABSTime=1790432020|referer=https://xlz.domainkqt.cc/
