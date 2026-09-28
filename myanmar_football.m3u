@@ -539,6 +539,9 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224756/1789984791_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i ဘယ်လ်ဂျီယံ VS ပြင်သစ်
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224756/1789984791_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i ဘယ်လ်ဂျီယံ VS ပြင်သစ်
 https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1790598964-0-0-95ba506ab9a431b7353348f2a9f90d60
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224853/1789984837_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",i တူရကီ VS အီတလီ
@@ -546,11 +549,17 @@ https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1790598964-0-0-95ba
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224853/1789984837_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",i တူရကီ VS အီတလီ
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224853/1789984837_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",i တူရကီ VS အီတလီ
 https://pull.niues.live/live/stream-9912143_lsd.m3u8?auth_key=1790599204-0-0-b7ea0781e0666a3d21fff89fad51b117
 
 #EXTINF:-1 tvg-logo="https://www.bet-experts.com/wp-content/uploads/2026/03/Sweden-vs-Poland-Prediction-1180x618.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i ဆွီဒင် VS ပိုလန်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.bet-experts.com/wp-content/uploads/2026/03/Sweden-vs-Poland-Prediction-1180x618.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i ဆွီဒင် VS ပိုလန်
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bet-experts.com/wp-content/uploads/2026/03/Sweden-vs-Poland-Prediction-1180x618.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i ဆွီဒင် VS ပိုလန်
 https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1790599324-0-0-300b4a85a3e53f3f6ad4be39da9964bb
