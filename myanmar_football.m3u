@@ -460,9 +460,15 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XcKsHzH/1789989535-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",a စင်ကာပူ VS ဘင်္ဂလားဒေ့
+https://pull.qjkngv.com/live/stream-578718_lsd.m3u8?auth_key=1790569020-0-0-0074a21c208284859963a57e371fd098
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZbLSqMv/1789984814-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",b ဂျပန် VS ဗင်နီဇွဲလား
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel14.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZbLSqMv/1789984814-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",b ဂျပန် VS ဗင်နီဇွဲလား
+https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1790568964-0-0-394a7fb34e3167a49fd139e4e28394fa
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yr7Bx7n/1789984815-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",c တောင်ကိုရီးယား VS ဥရုဂွေး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -475,6 +481,9 @@ https://live2.zundrixmediapipeline.com/live/channel17.m3u8|referer=https://xlz.d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52v20RVp/1789989534-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",e မလေးရှား VS အင်ဒိုနီးရှား
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52v20RVp/1789989534-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",e မလေးရှား VS အင်ဒိုနီးရှား
+https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1790569024-0-0-4788af3f158bacc560e1030002311ada
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbGdmMyH/a-HR0c-HM6Ly9rd-C1pb-WFn-ZXMuc2Vydm-Vy-LWNtcy5s-Zn-N0cm0ud-HYv-YXJja-Gl2ZS1pb-Wcvb-WVka-WEv-Nj-Mv-NT.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",f ကာဂျစ္စတန် VS မော်လ်ဒိုက်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
