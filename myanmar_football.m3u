@@ -512,6 +512,9 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.d
 https://live2.zundrixmediapipeline.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224810/1789984817_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",h လတ်ဗီးယား VS ဆိုက်ပရပ်
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224810/1789984817_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",h လတ်ဗီးယား VS ဆိုက်ပရပ်
 https://hwyypull.ncctrials.com/live/stream-752382_lsd.m3u8?auth_key=1790599622-0-0-b0316d9b21368874d0fc052b9a3c3f7b
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224785/1789984806_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",h ဂျော်ဂျီယာ VS ယူကရိန်း
@@ -519,11 +522,17 @@ https://hwyypull.ncctrials.com/live/stream-752382_lsd.m3u8?auth_key=1790599622-0
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224785/1789984806_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",h ဂျော်ဂျီယာ VS ယူကရိန်း
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224785/1789984806_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",h ဂျော်ဂျီယာ VS ယူကရိန်း
 https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1790598964-0-0-95ba506ab9a431b7353348f2a9f90d60
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224748/1789984788_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",h အာမေးနီးယား VS မွန်တီနီဂရိုး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224748/1789984788_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",h အာမေးနီးယား VS မွန်တီနီဂရိုး
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224756/1789984791_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i ဘယ်လ်ဂျီယံ VS ပြင်သစ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
