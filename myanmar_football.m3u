@@ -477,6 +477,9 @@ https://live2.zundrixmediapipeline.com/live/channel8.m3u8|referer=https://xlz.do
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224750/1789984789_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",c သြစတေးလျ VS ဘရာဇီး
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/224750/1789984789_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",c သြစတေးလျ VS ဘရာဇီး
+https://live2.zktsva.app/live/432017.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63ST4T9n/Picsart-26-09-29-10-10-50-037.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",d ဂျပန် အမျိုးသမီး VS တောင်ကိုရီးယား အမျိုးသမီး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
@@ -575,6 +578,9 @@ https://live2.zundrixmediapipeline.com/live/channel7.m3u8|referer=https://xlz.do
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM1R1WMM/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",k ဆော်ဒီ VS အီရတ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel28.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM1R1WMM/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",k ဆော်ဒီ VS အီရတ်
+https://live2.zktsva.app/live/741294.m3u8
 
 #EXTINF:-1 tvg-logo="https://arenahub.sa/uploads/events/s7mzkvzre6dnxgtvim9gltjx.jpeg" group-title="ယနေ့ည ပွဲစဥ်များ",k အိုမန် VS ကူဝိတ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
