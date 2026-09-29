@@ -501,6 +501,9 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.do
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfhYzG4r/image.webp" group-title="ယနေ့ည ပွဲစဥ်များ",f ဗီယက်နမ် VS ထိုင်း
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfhYzG4r/image.webp" group-title="ယနေ့ည ပွဲစဥ်များ",f ဗီယက်နမ် VS ထိုင်း
+https://live2.zktsva.app/live/304565.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/226078/1790342305_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",g တောင်ဆူဒမ် VS အီဂျစ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
@@ -647,10 +650,12 @@ https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=d3362de6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2964fd81-b5ab-40db-ab1d-e61bce58d33e/2/HERO-16X9/en-US/1936x1089._UR1920,1080_SX1080_FMpng_.png" group-title="ယနေ့ည ပွဲစဥ်များ",o အမေရီကန် VS ချီလီ
+https://live2.zktsva.app/live/306290.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3fdvvNW/1790342291-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",p မက္ကဆီကို VS ပီရူး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel28.m3u8|referer=https://xlz.domainkqt.cc/
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3fdvvNW/1790342291-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",p မက္ကဆီကို VS ပီရူး
+https://live2.zktsva.app/live/796315.m3u8
