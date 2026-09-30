@@ -484,6 +484,7 @@ https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTQmRgJF/1790612780-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",d ဟောင်ကောင် VS ဘရူနိုင်း
 https://live2.zktsva.app/live/301238.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/226002/1790342266_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",e အီရီထရီးယားVS တောင်အာဖရိက
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
@@ -497,6 +498,13 @@ https://live2.zundrixmediapipeline.com/live/channel19.m3u8|referer=https://xlz.d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5P5z843/1790342284-b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",f လစ်သူနီးယား VS အန်ဒိုရာ
 https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ယနေ့ည ပွဲစဥ်များ",f မော်လ်တာ U21 VS ဂျာမဏီ U21
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ယနေ့ည ပွဲစဥ်များ",f မော်လ်တာ U21  VS ဂျာမဏီ U21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.zundrixmediapipeline.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/origin_640x0/storage/files/member-storage/2026/09/28/uae-6aba67184ebbf.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",g ယူအေအီး VS ကာတာ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
