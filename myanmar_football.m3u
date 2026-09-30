@@ -474,6 +474,9 @@ https://live2.zktsva.app/live/294335.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://baomoi-photo-fbcrawler.bmcdn.me/w1200_r16x9/2026_09_28_439_56148042/086ea2bf15f4fcaaa5e5.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",c ဥဇဘက်ကစ္စတန် U23 VS ဂျပန် U23
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTQmRgJF/1790612780-b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",d ဟောင်ကောင် VS ဘရူနိုင်း
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
