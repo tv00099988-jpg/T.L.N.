@@ -501,11 +501,17 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227631/1790891257_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",d ခရိုအေးရှား VS စပိန်
+https://playback.livetl006.com/live/69f42e961f739deff81510c0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227631/1790891257_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",d ခရိုအေးရှား VS စပိန်
 https://live2.zktsva.app/live/294335.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227632/1790891257_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",d အင်္ဂလန် VS ချက်စ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227632/1790891257_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",d အင်္ဂလန် VS ချက်စ်
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/227632/1790891257_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",d အင်္ဂလန် VS ချက်စ်
 https://live2.zktsva.app/live/304565.m3u8
