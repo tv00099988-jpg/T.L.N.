@@ -466,7 +466,7 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2024/06/28/soi-keo-shanghai-port-vs-zhejiang-professional-vdqg-trung-quoc-2806094435.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",a Zhejiang VS shanghai port
 https://live2.zktsva.app/live/294335.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnbfc.com/apwin/prediction-assets/prediction-chadormalu-sc-vs-kheybar-khorramabad-persian-gulf-pro-league-en.webp" group-title="ယနေ့ည ပွဲစဥ်များ",b Chadormalu VS Kheybar
+#EXTINF:-1 tvg-logo="https://cdnbfc.com/apwin/prediction-assets/prediction-chadormalu-sc-vs-kheybar-khorramabad-persian-gulf-pro-league-en.webp" group-title="ယနေ့ည ပွဲစဥ်များ",b ချာဒိုမာလူ VS ကီးဘား
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=18eb989aa144990e7ca6c50cb6a5ed27&wsABSTime=1791589946|referer=https://xlz.domainkqt.cc/
 
@@ -501,6 +501,7 @@ https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214710/1786491854_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",f Al Fateh VS Al Ahli
 https://live2.zktsva.app/live/301263.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://soccertonic.com/wp-content/uploads/2023/05/Al-Sadd-vs-Al-Arabi-live-streaming-info-SxF.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",g Al-Sadd VS Al-Arabi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=d9b233296e96b75eff912e249bbc9ae2&wsABSTime=1791591671|referer=https://xlz.domainkqt.cc/
@@ -518,6 +519,9 @@ https://live2.jorvakstreamcache.com/live/channel18.m3u8|referer=https://xlz.doma
 
 #EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/G1uRN9TnwvIPs-2oY07hX_DESKTOP/image.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i PSV VS Heerenveen
 https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/G1uRN9TnwvIPs-2oY07hX_DESKTOP/image.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i PSV VS Heerenveen
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1791563286-0-0-d067b1fed77c7f2d8530acdc574e7ddb
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/212149/1785322865_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",j ဒေါ့မွန် VS ဝါဒါဘရီမင်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -539,3 +543,11 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8|referer=https://xlz.doma
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211604/1785278456_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",m မာလာဂါ VS အက်စပန်ညို
 https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:-1 tvg-logo="https://transfery.info/img/photos/123976/1500xauto/wieczysta-krakow-wisla-plock.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",f Wieczysta VS Wisla Plock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://transfery.info/img/photos/99486/1200xauto/gks-katowice-rakow-czestochowa.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",z R-Czestochowa VS GKS Katowice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=77cbf271eedbd6fb092e549c97772f38&wsABSTime=1791602272|referer=https://xlz.domainkqt.cc/
