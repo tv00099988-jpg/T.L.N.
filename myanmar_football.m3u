@@ -511,6 +511,9 @@ https://live2.jorvakstreamcache.com/live/channel7.m3u8|referer=https://xlz.domai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXYUL.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(j) ဖီယင်နု VS အယ်လ်ခမာ
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1791638225-0-0-e179617c6b800bf05ac94c148f21008e
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8pn3xt1772088395.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Al-Ahli VS Al-Sailiya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=884128af3dbf6f03d61a14740dc22edc&wsABSTime=1791643800|referer=https://xlz.domainkqt.cc/
@@ -533,7 +536,22 @@ https://live2.zktsva.app/live/289650.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel24.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/29dfdcfba451192631d7af1b4a7b4eee0f75b0b4a532b0bb8dcb87f6807969b4._SX1080_FMpng_.png" group-title="ယနေ့ည ပွဲစဥ်များ",(o) Ajax VS NEC-Nijmegen
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=7fcef80276541314b1718a5ec4258a53&txTime=6aca815d
+
 #EXTINF:-1 tvg-logo="https://images.mon-match.com/images/generated/fixture-jagiellonia-bialystok-vs-gornik-zabrze-1.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(p) Jagiellonia-Bialystok VS Gornik-Zabrze
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=05a71833af2615145611d35f63898db9&wsABSTime=1791635545|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Lm8HW5H94rM/maxresdefault.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(z) Fram-Reykjavik VS KR-Reykjavik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel85/playlist.m3u8?wsSecret=1ecfca770d8dcdee62f3adfb283760dd&wsABSTime=1791676864|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/668rzv1783059642.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(z) Vikingur-Reykjavik VS IA-Akranes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=ea31b22fb00b08b8ed76fb735e4d5631&wsABSTime=1791677050|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://sportske-kladionice.com/wp-content/uploads/2026/07/breidablik-vs-keflavik-tipovi.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(z) Breioablik VS Keflavik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=3f187969a33675639b40a8be95ccab8f&wsABSTime=1791677192|referer=https://xlz.domainkqt.cc/
 
