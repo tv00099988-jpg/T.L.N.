@@ -460,27 +460,46 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=d3c62e9664cc15158f3f81ab06a49a1d&wsABSTime=1791634883|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c0i5w51782209999.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",b Go-Ahead-Eagles VS Sparta-Rotterdam
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214759/1786491894_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",b Al-Hazem VS Neom-SC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=11c63d36e5c18e6b17736def8e144e7d&wsABSTime=1791642116|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c0i5w51782209999.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",c Go-Ahead-Eagles VS Sparta-Rotterdam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel7.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://transfery.info/img/photos/85162/1500xauto/slaskwroclaw-lechpoznan.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",c Slask-Wroclaw VS Lech-Poznan
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214683/1786491831_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",d Al-Ettifaq VS Al-Khaleej
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel28.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://transfery.info/img/photos/85162/1500xauto/slaskwroclaw-lechpoznan.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",e Slask-Wroclaw VS Lech-Poznan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel7.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXYUL.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",d ဖီယင်နု VS အယ်လ်ခမာ
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXYUL.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",f ဖီယင်နု VS အယ်လ်ခမာ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://www.bet-experts.com/wp-content/uploads/2025/09/Twente-vs-Fortuna-Sittard-Prediction.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",e Fortuna-Sittard VS FC-Twente
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8pn3xt1772088395.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",h Al-Ahli VS Al-Sailiya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=884128af3dbf6f03d61a14740dc22edc&wsABSTime=1791643800|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.bet-experts.com/wp-content/uploads/2025/09/Twente-vs-Fortuna-Sittard-Prediction.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",i Fortuna-Sittard VS FC-Twente
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel8.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/29dfdcfba451192631d7af1b4a7b4eee0f75b0b4a532b0bb8dcb87f6807969b4._SX1080_FMpng_.png" group-title="ယနေ့ည ပွဲစဥ်များ",f Ajax VS NEC-Nijmegen
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214767/1786491898_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",j Al-Hilal VS Al-Ittihad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel9.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214767/1786491898_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",j Al-Hilal VS Al-Ittihad
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/29dfdcfba451192631d7af1b4a7b4eee0f75b0b4a532b0bb8dcb87f6807969b4._SX1080_FMpng_.png" group-title="ယနေ့ည ပွဲစဥ်များ",k Ajax VS NEC-Nijmegen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel24.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://images.mon-match.com/images/generated/fixture-jagiellonia-bialystok-vs-gornik-zabrze-1.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",g Jagiellonia-Bialystok VS Gornik-Zabrze
+#EXTINF:-1 tvg-logo="https://images.mon-match.com/images/generated/fixture-jagiellonia-bialystok-vs-gornik-zabrze-1.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",l Jagiellonia-Bialystok VS Gornik-Zabrze
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=05a71833af2615145611d35f63898db9&wsABSTime=1791635545|referer=https://xlz.domainkqt.cc/
 
