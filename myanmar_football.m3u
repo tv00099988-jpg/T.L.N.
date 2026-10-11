@@ -480,6 +480,9 @@ https://live2.zktsva.app/live/306290.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel9.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2024/11/02/soi-keo-konyaspor-vs-basaksehir-vdqg-tnk-0211081718.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Konyaspor VS Basaksehir
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1791700625-0-0-c79848eee9f5ceb97c9b82d1def1db2f
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/033/238/302/non_2x/hong-kong-and-myanmar-flags-two-flags-vector.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) မြန်မာ VS ဟောင်ကောင်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel7.m3u8|referer=https://xlz.domainkqt.cc/
