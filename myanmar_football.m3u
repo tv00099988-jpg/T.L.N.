@@ -477,6 +477,12 @@ https://live2.jorvakstreamcache.com/live/channel5.m3u8|referer=https://xlz.domai
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17913611871020x576.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Shanghai-Port VS Deajeon-Hana-Cityzen
 https://live2.zktsva.app/live/289650.m3u8
 
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/13/1791869427977_match_thumb_1629934_b2a7b077.jpeg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Kyoto-Sanga VS Ratchaburi-FC
+https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/13/1791869427977_match_thumb_1629934_b2a7b077.jpeg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Kyoto-Sanga VS Ratchaburi-FC
+https://hwyypull.ncctrials.com/live/stream-433829_lhd.m3u8?auth_key=1791881164-0-0-433dac1bccea7b8515b1bd2cf0997ee4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH0WjVCB/images.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Hanoi-Police VS Kashima-Antlers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
@@ -499,6 +505,12 @@ https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=4cfaa4c9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=35baca070a77c9008e50f2c16b1746de&wsABSTime=1791899103|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPCmpnkp/Picsart-26-10-13-14-09-07-790.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Abo-Qir-Semad VS Asyut-Petroleum
+https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFdKJ8zp/Picsart-26-10-13-14-10-33-366.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) National-Bank VS Tala'ea-El-Gaish
+https://live2.zktsva.app/live/796315.m3u8
+
 #EXTINF:-1 tvg-logo="https://admine.q-tickets.com/Uploads/MediaSEO/WhatsApp_Image_2026-09-28_at_6.15.01_PM134351347667628558.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Al-Sadd VS Al-Ahilal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
@@ -518,3 +530,5 @@ https://live2.jorvakstreamcache.com/live/channel23.m3u8|referer=https://xlz.doma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel20.m3u8=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/origin_640x0/storage/files/btvttqt4/match-thumbnail/2026/10/12/match-thumbnail-439867-20261012231026-25de64.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al-Ittihad VS Shabab-Al-Ahli-Dubai
+https://live2.zktsva.app/live/796315.m3u8
