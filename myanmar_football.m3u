@@ -521,6 +521,9 @@ https://live05.zhwpg.app/live/08552895.m3u8?_t=1792121065452
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2023/05/13/soi-keo-heerenveen-vs-excelsior-vdqg-ha-lan-2023-24-1305084843.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(f) SC-Heerenveen VS Excelsior
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1792158725-0-0-85c700a287c1941fdfd23dc054b51eac
+
 #EXTINF:-1 tvg-logo="https://image.fupa.net/match/fc-stade-nyonnais-m1-fc-basel-m1-261016.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Stade-Nyonnais VS Basel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel32/playlist.m3u8?wsSecret=14a7639d33b842c3485ac78ae4c7cf2f&wsABSTime=1792159879|referer=https://xlz.domainkqt.cc/
