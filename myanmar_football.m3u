@@ -456,83 +456,213 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 #EXTINF:-1 group-title="All Sports",Media Sport HD
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/230504/1791979493_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Sydney VS Western-Sydney
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211409/1785278336_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) အက်စပန်ညို VS အက်သလက်တီကို
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel5.m3u8|referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/230504/1791979493_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Sydney VS Western-Sydney
-https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211409/1785278336_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) အက်စပန်ညို VS အက်သလက်တီကို
+https://live2.zktsva.app/live/303098.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/230504/1791979493_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Sydney VS Western-Sydney
-https://live05.zhwpg.app/live/14830711.m3u8?_t=1792120650788
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211409/1785278336_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) အက်စပန်ညို VS အက်သလက်တီကို
+https://live05.zhwpg.app/live/59444581.m3u8?_t=1792205851145
 
-#EXTINF:-1 tvg-logo="https://cdn.platinumlist.net/upload/event/al_dhafra_fc_vs_united_fc_2026_oct_16_hamdan_bin_zayed_stadium_108889-featuredmobile-en1791357877.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Al-Dhafra VS United-FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel20.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://cdn.platinumlist.net/upload/event/al_dhafra_fc_vs_united_fc_2026_oct_16_hamdan_bin_zayed_stadium_108889-featuredmobile-en1791357877.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Al-Dhafra VS United-FC
-https://live05.zhwpg.app/live/99121525.m3u8?_t=1792120718698
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214845/1786491942_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al-Qadsiah VS Abha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214845/1786491942_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al-Qadsiah VS Abha
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214845/1786491942_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al-Qadsiah VS Abha
-https://live05.zhwpg.app/live/33982309.m3u8?_t=1792120774875
-
-#EXTINF:-1 tvg-logo="https://www.qsl.qa/sites/default/files/inline-images/d20d760b-b3ab-47d0-a3ef-47845c54a99e.jpeg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Al-Ahli VS Al-Wakrah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://www.qsl.qa/sites/default/files/inline-images/d20d760b-b3ab-47d0-a3ef-47845c54a99e.jpeg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Al-Ahli VS Al-Wakrah
-https://live05.zhwpg.app/live/18812304.m3u8?_t=1792120921846
-
-#EXTINF:-1 tvg-logo="https://cdn.platinumlist.net/upload/event/baniyas_fc_vs_al_wasl_fc_2026_oct_16_baniyas_stadium_108893-full-en1791358222.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Baniyas VS Al-Wasl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel10.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://cdn.platinumlist.net/upload/event/baniyas_fc_vs_al_wasl_fc_2026_oct_16_baniyas_stadium_108893-full-en1791358222.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Baniyas VS Al-Wasl
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.platinumlist.net/upload/event/baniyas_fc_vs_al_wasl_fc_2026_oct_16_baniyas_stadium_108893-full-en1791358222.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Baniyas VS Al-Wasl
-https://live05.zhwpg.app/live/78905744.m3u8?_t=1792120970863
-
-#EXTINF:-1 tvg-logo="https://lvbet.pl/blog/wp-content/uploads/2026/10/wieczysta-krakow-vs-rakow-czestochowa.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Wieczysta-Kraków VS Rakow-Czestochowa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
-
-#EXTINF:-1 tvg-logo="https://lvbet.pl/blog/wp-content/uploads/2026/10/wieczysta-krakow-vs-rakow-czestochowa.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Wieczysta-Kraków VS Rakow-Czestochowa
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:-1 tvg-logo="https://lvbet.pl/blog/wp-content/uploads/2026/10/wieczysta-krakow-vs-rakow-czestochowa.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Wieczysta-Kraków VS Rakow-Czestochowa
-https://live05.zhwpg.app/live/82054853.m3u8?_t=1792121025446
-
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2023/08/15/soi-keo-al-arabi-vs-al-shamal-vdqg-qatar-2023-24-1508232756.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Al-Ahahaniya VS Al-Arabi
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211933/1785278647_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဗီနီဇီယာ VS နာပိုလီ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2023/08/15/soi-keo-al-arabi-vs-al-shamal-vdqg-qatar-2023-24-1508232756.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Al-Ahahaniya VS Al-Arabi
-https://live05.zhwpg.app/live/08552895.m3u8?_t=1792121065452
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211933/1785278647_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဗီနီဇီယာ VS နာပိုလီ
+https://live2.zktsva.app/live/301238.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2023/05/13/soi-keo-heerenveen-vs-excelsior-vdqg-ha-lan-2023-24-1305084843.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(f) SC-Heerenveen VS Excelsior
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211933/1785278647_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဗီနီဇီယာ VS နာပိုလီ
+https://live05.zhwpg.app/live/75748097.m3u8?_t=1792205904576
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2026/10/14/nhan-dinh-bong-da-du-doan-werder-bremen-vs-paderborn-vdqg-duc-bundesliga-hom-nay-1410030733.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဝါဒါဘရီမင် VS ပါဒါဘွန်း
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2026/10/14/nhan-dinh-bong-da-du-doan-werder-bremen-vs-paderborn-vdqg-duc-bundesliga-hom-nay-1410030733.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဝါဒါဘရီမင် VS ပါဒါဘွန်း
+https://live05.zhwpg.app/live/87379114.m3u8?_t=1792205984389
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2026/10/14/nhan-dinh-bong-da-du-doan-werder-bremen-vs-paderborn-vdqg-duc-bundesliga-hom-nay-1410030733.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဝါဒါဘရီမင် VS ပါဒါဘွန်း
+https://pull.qjkngv.com/live/stream-673032_lhd.m3u8?auth_key=1792211165-0-0-568e8bf8179cb01484c4611565224937
+
+#EXTINF:-1 tvg-logo="https://assets.bundesliga.com/matchteaser/DFL-COM-000001/DFL-SEA-0001KA/DFL-MAT-J043HN_prematch_de.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ယူနီယံဘာလင် VS ဒေါ့မွန်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2023/05/13/soi-keo-heerenveen-vs-excelsior-vdqg-ha-lan-2023-24-1305084843.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(f) SC-Heerenveen VS Excelsior
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1792158725-0-0-85c700a287c1941fdfd23dc054b51eac
+#EXTINF:-1 tvg-logo="https://assets.bundesliga.com/matchteaser/DFL-COM-000001/DFL-SEA-0001KA/DFL-MAT-J043HN_prematch_de.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ယူနီယံဘာလင် VS ဒေါ့မွန်
+https://live2.zktsva.app/live/432017.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.fupa.net/match/fc-stade-nyonnais-m1-fc-basel-m1-261016.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Stade-Nyonnais VS Basel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live1.quickscoreboardz.com/live/channel32/playlist.m3u8?wsSecret=14a7639d33b842c3485ac78ae4c7cf2f&wsABSTime=1792159879|referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://assets.bundesliga.com/matchteaser/DFL-COM-000001/DFL-SEA-0001KA/DFL-MAT-J043HN_prematch_de.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ယူနီယံဘာလင် VS ဒေါ့မွန်
+https://live05.zhwpg.app/live/82054853.m3u8?_t=1792206030016
 
-#EXTINF:-1 tvg-logo="https://static.wincomparator.com/wincomparator-event-thumbnails/prod/8533497.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Widzew-Lodz VS Wisla-Krakow
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2026/10/14/nhan-dinh-bong-da-du-doan-schalke-vs-mainz-vdqg-duc-bundesliga-hom-nay-1410030731.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ရှော်ကေး VS မိန့်ဇ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=f532f4b9cc3b4d2f380481ac4507fe1d&wsABSTime=1792160143|referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel14.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2024/05/29/soi-keo-breidablik-vs-vikingur-reykjavik-vdqg-iceland-2905081716.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(i) Breidablik VS Vikingur-Reykjavik
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2026/10/14/nhan-dinh-bong-da-du-doan-schalke-vs-mainz-vdqg-duc-bundesliga-hom-nay-1410030731.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ရှော်ကေး VS မိန့်ဇ်
+https://live05.zhwpg.app/live/90865415.m3u8?_t=1792206101470
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/amp/2026/10/14/nhan-dinh-bong-da-du-doan-schalke-vs-mainz-vdqg-duc-bundesliga-hom-nay-1410030731.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ရှော်ကေး VS မိန့်ဇ်
+https://hwyypull.ncctrials.com/live/stream-761831_lhd.m3u8?auth_key=1792211225-0-0-addd2433090b6c480fe8177e569a1d59
+
+#EXTINF:-1 tvg-logo="https://assets.bundesliga.com/matchteaser/DFL-COM-000001/DFL-SEA-0001K9/DFL-MAT-J041X5_prematch.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဟမ်းဘတ် VS စတုဂတ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=8b9c256c074cf9fef8f25c45e1f11ba6&wsABSTime=1792160368|referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel13.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://assets.bundesliga.com/matchteaser/DFL-COM-000001/DFL-SEA-0001K9/DFL-MAT-J041X5_prematch.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဟမ်းဘတ် VS စတုဂတ်
+https://live05.zhwpg.app/live/33982309.m3u8?_t=1792206161354
+
+#EXTINF:-1 tvg-logo="https://assets.bundesliga.com/matchteaser/DFL-COM-000001/DFL-SEA-0001K9/DFL-MAT-J041X5_prematch.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဟမ်းဘတ် VS စတုဂတ်
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1792210805-0-0-8aba160887d4c14ea46d6b5c0c692fbb
+
+#EXTINF:-1 tvg-logo="https://bold.dk/betting/wp-content/uploads/2026/10/match-10089-1792057131.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) အယ်ဗာဘတ် VS အော့စ်ဘတ်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://bold.dk/betting/wp-content/uploads/2026/10/match-10089-1792057131.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) အယ်ဗာဘတ် VS အော့စ်ဘတ်
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://bold.dk/betting/wp-content/uploads/2026/10/match-10089-1792057131.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) အယ်ဗာဘတ် VS အော့စ်ဘတ်
+https://live05.zhwpg.app/live/99121525.m3u8?_t=1792206210378
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211945/1785278655_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) ဗီလာရီးလ်ရဲ VS အယ်လ်ချီ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211945/1785278655_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) ဗီလာရီးလ်ရဲ VS အယ်လ်ချီ
+https://live2.zktsva.app/live/796315.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211945/1785278655_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) ဗီလာရီးလ်ရဲ VS အယ်လ်ချီ
+https://live05.zhwpg.app/live/07808742.m3u8?_t=1792206286268
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/alu51i1625514092.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) ADO-Den-Haag VS PSV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel8.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2023/02/21/soi-keo-qatar-sc-vs-al-sailiya-vdqg-qatar-2022-23-4-2102135617.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Al-Sailiya VS Qatar-SC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=a88fced67897437f257f29018a7fc3dd&wsABSTime=1792200158|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211025/1785245060_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(f) စထရာဘိုး VS ပီအက်စ်ဂျီ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211025/1785245060_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(f) စထရာဘိုး VS ပီအက်စ်ဂျီ
+https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211025/1785245060_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(f) စထရာဘိုး VS ပီအက်စ်ဂျီ
+https://live05.zhwpg.app/live/33860426.m3u8?_t=1792206388852
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214932/1786491990_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Neom-SC VS Al-Ettifaq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel13.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://cdn.platinumlist.net/upload/event/shabab_al_ahli_fc_vs_al_ain_fc_2019_feb_28_shabab_al_ahli_stadium_al_awir_74346-full1550563299.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Shabab-Al-Ahli-Dubai VS Al-Ain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel7/playlist.m3u8?wsSecret=2addb2422903d348aa6844edf1b99308&wsABSTime=1792202510|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211297/1785278269_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(i) ဘိုလော့နာ VS အင်တာမီလန်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211297/1785278269_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(i) ဘိုလော့နာ VS အင်တာမီလန်
+https://live2.zktsva.app/live/301263.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211297/1785278269_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(i) ဘိုလော့နာ VS အင်တာမီလန်
+https://live05.zhwpg.app/live/14707124.m3u8?_t=1792206442232
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211752/1785278544_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(j) ရီးရဲလ်ဘက်တစ် VS ဘာစီလိုနာ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211752/1785278544_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(j) ရီးရဲလ်ဘက်တစ် VS ဘာစီလိုနာ
+https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211752/1785278544_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(j) ရီးရဲလ်ဘက်တစ် VS ဘာစီလိုနာ
+https://live05.zhwpg.app/live/75748097.m3u8?_t=1792206576206
+
+#EXTINF:-1 tvg-logo="https://media.baovanhoa.vn/zoom/1000/Uploaded/ngoctrung/2025_08_21/bayern_munich_vs_rb_leipzig_KEQB.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(k) ဘိုင်ယန်မြူးနစ် VS လိုက်ဇစ်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://media.baovanhoa.vn/zoom/1000/Uploaded/ngoctrung/2025_08_21/bayern_munich_vs_rb_leipzig_KEQB.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(k) ဘိုင်ယန်မြူးနစ် VS လိုက်ဇစ်
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.baovanhoa.vn/zoom/1000/Uploaded/ngoctrung/2025_08_21/bayern_munich_vs_rb_leipzig_KEQB.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(k) ဘိုင်ယန်မြူးနစ် VS လိုက်ဇစ်
+https://live05.zhwpg.app/live/33982309.m3u8?_t=1792206519166
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxhqs74K/IMG-02881c47-4125-4ba4-9edc-200bcf118f61.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(l) Lusail-SC VS Al-Shamal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=5b958fd19207896625b355370a155d80&wsABSTime=1792202918|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxhqs74K/IMG-02881c47-4125-4ba4-9edc-200bcf118f61.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(l) Lusail-SC VS Al-Shamal
+https://live05.zhwpg.app/live/82054853.m3u8?_t=1792206633532
+
+#EXTINF:-1 tvg-logo="https://footballpredictions.com/wp-content/uploads/2026/02/feyenoord-vs-telstar-prediction-22-february-2026-1-1640x840.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) SC-Telstar VS Feyenoord
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel23.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://footballpredictions.com/wp-content/uploads/2026/02/feyenoord-vs-telstar-prediction-22-february-2026-1-1640x840.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) SC-Telstar VS Feyenoord
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792210985-0-0-ad48fab20161af67ad1c4c63b2ff241d
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214928/1786491987_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Al-Diriyah VS Al-Taawoun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel28.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211089/1785245101_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(n) ထရိုင်းရက် VS လန်းစ်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211089/1785245101_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(n) ထရိုင်းရက် VS လန်းစ်
+https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211089/1785245101_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(n) ထရိုင်းရက် VS လန်းစ်
+https://live05.zhwpg.app/live/59444581.m3u8?_t=1792206773030
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210766/1785244907_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(n) လိုင်လီ VS ဘရက်စ်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel24.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210766/1785244907_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(n) လိုင်လီ VS ဘရက်စ်
+https://live2.zktsva.app/live/301263.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210766/1785244907_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(n) လိုင်လီ VS ဘရက်စ်
+https://live05.zhwpg.app/live/99121525.m3u8?_t=1792206722484
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211812/1785278579_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(n) ရိုးမား VS ဂျီနိုအာ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211812/1785278579_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(n) ရိုးမား VS ဂျီနိုအာ
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211812/1785278579_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(n) ရိုးမား VS ဂျီနိုအာ
+https://live05.zhwpg.app/live/16226575.m3u8?_t=1792206676404
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211902/1785278630_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(o) ဗလင်စီယာ VS ဘီဘာအို
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211902/1785278630_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(o) ဗလင်စီယာ VS ဘီဘာအို
+https://live05.zhwpg.app/live/08552895.m3u8?_t=1792206820088
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
