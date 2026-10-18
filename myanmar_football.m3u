@@ -481,6 +481,9 @@ https://live05.zhwpg.app/live/33860426.m3u8?_t=1792289708650
 https://live2.jorvakstreamcache.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211684/1785278504_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) အိုဆာဆူနာ VS ရေးဆင်းကလပ်
+http://31.43.191.125:8080/restream/restream/141402
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211684/1785278504_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) အိုဆာဆူနာ VS ရေးဆင်းကလပ်
 https://live2.zktsva.app/live/432017.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211684/1785278504_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) အိုဆာဆူနာ VS ရေးဆင်းကလပ်
@@ -498,6 +501,9 @@ https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1792294865-0-0-8f51
 https://live2.jorvakstreamcache.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210501/1785244746_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) ဘုန်းမောက် VS ဆန်းဒါးလန်း
+http://31.43.191.125:8080/restream/restream/141376
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210501/1785244746_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) ဘုန်းမောက် VS ဆန်းဒါးလန်း
 https://live2.zktsva.app/live/306290.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210501/1785244746_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) ဘုန်းမောက် VS ဆန်းဒါးလန်း
@@ -511,6 +517,9 @@ https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1792306985-0-0-5c1
 https://live2.jorvakstreamcache.com/live/channel24.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210546/1785244773_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) ဘရိုက်တန် VS ခရစ္စတယ်ပဲလေ့စ်
+http://31.43.191.125:8080/restream/restream/141367
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210546/1785244773_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) ဘရိုက်တန် VS ခရစ္စတယ်ပဲလေ့စ်
 https://live2.zktsva.app/live/301238.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210546/1785244773_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) ဘရိုက်တန် VS ခရစ္စတယ်ပဲလေ့စ်
@@ -522,6 +531,9 @@ https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792306925-0-0-5ef
 #EXTINF:-1 tvg-logo="https://c.files.bbci.co.uk/a562/live/297a2e10-e80c-11f0-a8dc-93c15fe68710.png" group-title="ယနေ့ည ပွဲစဥ်များ",(e) လိဒ် VS မန်ယူ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://c.files.bbci.co.uk/a562/live/297a2e10-e80c-11f0-a8dc-93c15fe68710.png" group-title="ယနေ့ည ပွဲစဥ်များ",(e) လိဒ် VS မန်ယူ
+http://31.43.191.125:8080/restream/restream/141364
 
 #EXTINF:-1 tvg-logo="https://c.files.bbci.co.uk/a562/live/297a2e10-e80c-11f0-a8dc-93c15fe68710.png" group-title="ယနေ့ည ပွဲစဥ်များ",(e) လိဒ် VS မန်ယူ
 https://live2.zktsva.app/live/304565.m3u8
