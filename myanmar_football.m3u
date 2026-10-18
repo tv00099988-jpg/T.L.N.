@@ -461,7 +461,7 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 https://live2.jorvakstreamcache.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/04/04/soi-keo-go-ahead-eagles-vs-pec-zwolle-vdqg-ha-lan-0404155750.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) PEC-Zwolle VS Go-Ahead-Eagles
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1792294805-0-0-bc0fb40d6c350bc6c63c8fc515aa1f9e
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/04/04/soi-keo-go-ahead-eagles-vs-pec-zwolle-vdqg-ha-lan-0404155750.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) PEC-Zwolle VS Go-Ahead-Eagles
 https://hwyypull.ncctrials.com/live/stream-433829_lhd.m3u8?auth_key=1792295045-0-0-ec641b8a1f8398fbdbdd05ef00bccf58
@@ -721,13 +721,18 @@ https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211784/1785278562_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(r) ရီးရဲလ်မက်ဒရစ် VS ဆီဗီလာ
 https://live05.zhwpg.app/live/33982309.m3u8?_t=1792290610245
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFz6223d/IMG-bc569264-b634-40d5-a552-941e88357dec.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(r) Cincinnati VS Columbus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel9.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFz6223d/IMG-bc569264-b634-40d5-a552-941e88357dec.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(r) Cincinnati VS Columbus
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFz6223d/IMG-bc569264-b634-40d5-a552-941e88357dec.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(r) Cincinnati VS Columbus
+https://live05.zhwpg.app/live/87547578.m3u8?_t=1792342775491
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFz6223d/IMG-bc569264-b634-40d5-a552-941e88357dec.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(r) Cincinnati VS Columbus
+https://pull.qjkngv.com/live/stream-654581_lhd.m3u8?auth_key=1792346405-0-0-6c5d43421f859b603f06f74bc60f2761
 
 
 
