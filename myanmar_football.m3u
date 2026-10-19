@@ -499,6 +499,12 @@ https://live05.zhwpg.app/live/99121525.m3u8?_t=1792380396974
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel23.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://transfery.info/img/photos/111994/1500xauto/radomiak-radom-wisla-plock.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Wisla-Plock VS Radomiak-Radom
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1792419425-0-0-73fd75857c5cf442fefb9f46675e31d8
+
+#EXTINF:-1 tvg-logo="https://transfery.info/img/photos/111994/1500xauto/radomiak-radom-wisla-plock.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Wisla-Plock VS Radomiak-Radom
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1792419485-0-0-e83ca092eeb512c9b94c51bf79ed77d0
+
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214766/1786491898_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Al-Hilal VS Al-Hazem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
