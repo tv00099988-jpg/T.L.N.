@@ -516,6 +516,12 @@ https://live05.zhwpg.app/live/02456966.m3u8?_t=1792467087484
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel20.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214682/1786491830_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Al-Ettifaq VS Al-Ittihad
+https://hwyypull.ncctrials.com/live/stream-512383_lhd.m3u8?auth_key=1792513085-0-0-765829090072dd461890fd0a0df5971b
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/214682/1786491830_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Al-Ettifaq VS Al-Ittihad
+https://pull.qjkngv.com/live/stream-699438_lhd.m3u8?auth_key=1792513025-0-0-4ac71b5afd2db1d9bfbcfe001044daef
+
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/222668/1788718526_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) မန်စီးတီး VS AEK အေသင်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel9.m3u8|referer=https://xlz.domainkqt.cc/
@@ -531,6 +537,9 @@ https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1792504086-0-0-a83
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/222668/1788718526_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) မန်စီးတီး VS AEK အေသင်
 https://live05.zhwpg.app/live/07428422.m3u8?_t=1792467179055
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/222668/1788718526_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) မန်စီးတီး VS AEK အေသင်
+https://live05.qioetj.app/live/14830711_tsc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/222674/1788718529_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) ရိုးမား VS ဆလိုဗန်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
