@@ -469,6 +469,12 @@ https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210461/1785244724_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(a) အက်စတွန်ဗီလာ vs မန်စီးတီး
 https://live05.qioetj.app/live/33982309_tsc.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210461/1785244724_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(a) အက်စတွန်ဗီလာ vs မန်စီးတီး
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792818306-0-0-bc5fffe037ca54f389e5050dc9130def
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210461/1785244724_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(a) အက်စတွန်ဗီလာ vs မန်စီးတီး
+https://hwyypull.ncctrials.com/live/stream-571291_lhd.m3u8?auth_key=1792818306-0-0-0c1e48993328229554719a538886410d
+
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211736/1785278534_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဗယ်လီကာနို vs အယ်လ်ချီ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel5.m3u8|referer=https://xlz.domainkqt.cc/
@@ -478,6 +484,9 @@ https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211736/1785278534_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဗယ်လီကာနို vs အယ်လ်ချီ
 https://live05.qioetj.app/live/16226575_tsc.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211736/1785278534_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဗယ်လီကာနို vs အယ်လ်ချီ
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1792818126-0-0-a63e9013812b8a4a9e99f275ec539e0f
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211364/1785278310_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ကိုမို vs ဆက်ဆူအိုလို
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
