@@ -639,6 +639,9 @@ https://live2.zktsva.app/live/300523.m3u8
 https://live05.qioetj.app/live/02456966_tsc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210577/1785244792_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(k) ချဲလ်ဆီး vs စပါး
+https://pull.fmp.live/live/live_59328_lud.m3u8?auth_key=1792870301-0-0-bef51b5f61f8e18fdd6344d7e7c7a696
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210577/1785244792_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(k) ချဲလ်ဆီး vs စပါး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
