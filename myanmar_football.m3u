@@ -466,7 +466,7 @@ https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2026/10/23/nhan-dinh-bong-da-du-doan-fortuna-sittard-vs-excelsior-vdqg-ha-lan-hom-nay-2310180954.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Fortuna Sittard vs Excelsior
 https://live05.yefpwmc.app/live/99121525_tsc.m3u8
 
-#EXTINF:-1 tvg-logo="https://lvbet.pl/blog/wp-content/uploads/2026/10/slask-wroclaw-vs-wieczysta-krakow.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Śląsk Wrocław vs Wieczysta Kraków
+#EXTINF:-1 tvg-logo="https://pliki.meczyki.pl/live-score/soccer/match/6082822/original.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Śląsk Wrocław vs Wieczysta Kraków
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
 
@@ -717,7 +717,7 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/212203/1785322915_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(j) ဖရိုင်းဘတ် vs ဘိုင်ယန်မြူးနစ်
 https://live05.yefpwmc.app/live/90865415_tsc.m3u8
 
-#EXTINF:-1 tvg-logo="https://lvbet.pl/blog/wp-content/uploads/2026/10/legia-warszawa-vs-lech-poznan.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Legia Warszawa vs Lech Poznań
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZq8qrpj/https-media-eurosport-s3-gra-io-cloud-ovh-net-zaklady-2026-10-Legia-Warszawa-vs-Lech-Poznan.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Legia Warszawa vs Lech Poznań
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=214ff135054bdecedac4b1a8ee7d68cf&wsABSTime=1792944383|referer=https://xlz.domainkqt.cc/
 
@@ -777,7 +777,8 @@ https://live05.yefpwmc.app/live/08552895_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211286/1785278263_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(o) ဘာစီလိုနာ vs ရီးရဲလ်မက်ဒရစ်
 https://live2.zktsva.app/live/304565.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211286/1785278263_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(o) ဘာစီလိုနာ vs ရီးရဲလ်မက်ဒရစ်
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1792926006-0-0-146bc05b1fd512f851aa8b259ea331eb
 
 
 
