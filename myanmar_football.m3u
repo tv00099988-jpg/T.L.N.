@@ -563,6 +563,9 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live05.yefpwmc.app/live/08552895_tsc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210785/1785244918_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) လီဗာပူးလ် vs ဘရိုက်တန်
+https://pull.fmp.live/live/live_59542_lud.m3u8?auth_key=1792947325-0-0-ee104ead9495ecaa79fc9501d9d685bf
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210785/1785244918_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) လီဗာပူးလ် vs ဘရိုက်တန်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
