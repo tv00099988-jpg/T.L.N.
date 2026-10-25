@@ -503,6 +503,9 @@ https://live05.yefpwmc.app/live/33860426_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel23.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2022/08/26/soikeonecnijmegenvsgroningenvdqghalan2022234_2608064833.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) NEC vs Groningen
+https://pull.fmp.live/sla/1-6abd2b0f5d732f70fce7cc0f.m3u8?auth_key=1792955581-0-0-6c9b1b814e71733e9148fdb5915dd35b
+
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2024/08/02/nhan-dinh-bong-da-du-doan-psv-eindhoven-vs-feyenoord-sieu-cup-ha-lan-hom-nay-0208214221.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) ပီအက်စ်ဗွီ vs ဖီယင်နု
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel28.m3u8|referer=https://xlz.domainkqt.cc/
