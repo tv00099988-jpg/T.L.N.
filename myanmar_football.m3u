@@ -550,6 +550,9 @@ https://live2.zktsva.app/live/289650.m3u8
 https://live05.yefpwmc.app/live/75915087_tsc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210855/1785244957_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) မန်ယူ vs ဘုန်းမောက်
+https://pull.fmp.live/live/live_59537_lud.m3u8?auth_key=1792946155-0-0-43d867f4d449caf89509b1d1751d6f76
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210855/1785244957_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(e) မန်ယူ vs ဘုန်းမောက်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
