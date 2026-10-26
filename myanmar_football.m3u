@@ -458,13 +458,16 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/thumnail/2026/10/24/nhan-dinh-bong-da-du-doan-neftchi-fargona-vs-al-ittihad-afc-champions-league-elite-hom-nay-2410144541.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Neftchi Fergana vs Al-Ittihad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792982327-0-0-abad18998c67d8d918f9bd331804fabd|referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/thumnail/2026/10/24/nhan-dinh-bong-da-du-doan-neftchi-fargona-vs-al-ittihad-afc-champions-league-elite-hom-nay-2410144541.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Neftchi Fergana vs Al-Ittihad
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/thumnail/2026/10/24/nhan-dinh-bong-da-du-doan-neftchi-fargona-vs-al-ittihad-afc-champions-league-elite-hom-nay-2410144541.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Neftchi Fergana vs Al-Ittihad
 https://live2.zktsva.app/live/304565.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/thumnail/2026/10/24/nhan-dinh-bong-da-du-doan-neftchi-fargona-vs-al-ittihad-afc-champions-league-elite-hom-nay-2410144541.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Neftchi Fergana vs Al-Ittihad
+https://live05.yefpwmc.app/live/14830711_tsc.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/storage/files/hoan106/match-thumbnail/2026/10/25/match-thumbnail-442190-20261025220143-718f0e.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al Ain vs Tractor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -476,6 +479,9 @@ https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/storage/files/hoan106/match-thumbnail/2026/10/25/match-thumbnail-442190-20261025220143-718f0e.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al Ain vs Tractor
 https://live2.zktsva.app/live/303098.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/storage/files/hoan106/match-thumbnail/2026/10/25/match-thumbnail-442190-20261025220143-718f0e.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al Ain vs Tractor
+https://live05.yefpwmc.app/live/78905744_tsc.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2022/1/7/soi-keo-algharafa-vs-alahli-vdqg-qatar.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al-Ahli vs Al-Gharafa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
@@ -485,6 +491,9 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2022/1/7/soi-keo-algharafa-vs-alahli-vdqg-qatar.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al-Ahli vs Al-Gharafa
 https://live2.zktsva.app/live/294335.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2022/1/7/soi-keo-algharafa-vs-alahli-vdqg-qatar.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Al-Ahli vs Al-Gharafa
+https://live05.yefpwmc.app/live/08552895_tsc.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-besiktas-vs-basaksehir-vdqg-tho-nhi-ky-hom-nay-2410064735.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Beşiktaş vs Başakşehir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -496,6 +505,9 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-besiktas-vs-basaksehir-vdqg-tho-nhi-ky-hom-nay-2410064735.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Beşiktaş vs Başakşehir
 https://live2.zktsva.app/live/741294.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-besiktas-vs-basaksehir-vdqg-tho-nhi-ky-hom-nay-2410064735.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Beşiktaş vs Başakşehir
+https://live05.yefpwmc.app/live/33860426_tsc.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2022/3/17/soi-keo-rizespor-vs-trabzonspor-vdqg-tho-nhi-ky-2021-22-4.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Rizespor vs Trabzonspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
@@ -506,12 +518,21 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2022/3/17/soi-keo-rizespor-vs-trabzonspor-vdqg-tho-nhi-ky-2021-22-4.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Rizespor vs Trabzonspor
 https://live2.zktsva.app/live/796315.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2022/3/17/soi-keo-rizespor-vs-trabzonspor-vdqg-tho-nhi-ky-2021-22-4.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Rizespor vs Trabzonspor
+https://live05.yefpwmc.app/live/75748097_tsc.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2023/08/11/soi-keo-copenhagen-vs-ob-odense-vdqg-dan-mach-2023-24-1108121310.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Copenhagen vs OB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2023/08/11/soi-keo-copenhagen-vs-ob-odense-vdqg-dan-mach-2023-24-1108121310.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Copenhagen vs OB
 https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2023/08/11/soi-keo-copenhagen-vs-ob-odense-vdqg-dan-mach-2023-24-1108121310.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Copenhagen vs OB
+https://live2.zktsva.app/live/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2023/08/11/soi-keo-copenhagen-vs-ob-odense-vdqg-dan-mach-2023-24-1108121310.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Copenhagen vs OB
+https://live05.yefpwmc.app/live/07808742_tsc.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/storage/files/btvttqt4/match-thumbnail/2026/10/24/match-thumbnail-442027-20261024231355-3a2c3c.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Al Qadsiah vs Al Sadd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -523,6 +544,9 @@ https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/storage/files/btvttqt4/match-thumbnail/2026/10/24/match-thumbnail-442027-20261024231355-3a2c3c.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Al Qadsiah vs Al Sadd
 https://live2.zktsva.app/live/300523.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/storage/files/btvttqt4/match-thumbnail/2026/10/24/match-thumbnail-442027-20261024231355-3a2c3c.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Al Qadsiah vs Al Sadd
+https://live05.yefpwmc.app/live/33860426_tsc.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/origin_640x0/storage/files/btvttqt4/match-thumbnail/2026/10/24/match-thumbnail-442028-20261024231456-09c205.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Al-Quwa Al-Jawiya vs Pakhtakor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
@@ -533,6 +557,9 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/origin_640x0/storage/files/btvttqt4/match-thumbnail/2026/10/24/match-thumbnail-442028-20261024231456-09c205.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Al-Quwa Al-Jawiya vs Pakhtakor
 https://live2.zktsva.app/live/301263.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.thethao247.vn/origin_640x0/storage/files/btvttqt4/match-thumbnail/2026/10/24/match-thumbnail-442028-20261024231456-09c205.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Al-Quwa Al-Jawiya vs Pakhtakor
+https://live05.yefpwmc.app/live/78905744_tsc.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-galatasaray-vs-fenerbahce-vdqg-tho-nhi-ky-hom-nay-2410064736.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Galatasaray vs Fenerbahçe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel9.m3u8|referer=https://xlz.domainkqt.cc/
@@ -540,12 +567,18 @@ https://live2.jorvakstreamcache.com/live/channel9.m3u8|referer=https://xlz.domai
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-galatasaray-vs-fenerbahce-vdqg-tho-nhi-ky-hom-nay-2410064736.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Galatasaray vs Fenerbahçe
 https://live2.zktsva.app/live/303098.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-galatasaray-vs-fenerbahce-vdqg-tho-nhi-ky-hom-nay-2410064736.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Galatasaray vs Fenerbahçe
+https://live05.yefpwmc.app/live/33982309_tsc.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-santa-clara-vs-benfica-vdqg-bo-dao-nha-hom-nay-2410081107.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Santa Clara vs Benfica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel4.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-santa-clara-vs-benfica-vdqg-bo-dao-nha-hom-nay-2410081107.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Santa Clara vs Benfica
 https://live2.zktsva.app/live/741294.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/10/24/nhan-dinh-bong-da-du-doan-santa-clara-vs-benfica-vdqg-bo-dao-nha-hom-nay-2410081107.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Santa Clara vs Benfica
+https://live05.yefpwmc.app/live/16226575_tsc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210986/1785245036_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(g) ပီအက်စ်ဂျီ vs လိုင်ယွန်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -564,7 +597,8 @@ https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211855/1785278603_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(h) ဆီဗီလာ vs အိုဆာဆူနာ
 https://live2.zktsva.app/live/796315.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211855/1785278603_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(h) ဆီဗီလာ vs အိုဆာဆူနာ
+https://live05.yefpwmc.app/live/99121525_tsc.m3u8
 
 
 
