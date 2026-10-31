@@ -457,6 +457,9 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210573/1785244790_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(a) ချဲလ်ဆီး vs မန်ယူ
+https://pull.fmp.live/live/live_60326_lud.m3u8?auth_key=1793459133-0-0-57e425cc6cfb2e2a045c400acffc66b8
+
+#EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/210573/1785244790_b0464c6958.webp" group-title="ယနေ့ည ပွဲစဥ်များ",(a) ချဲလ်ဆီး vs မန်ယူ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
 
