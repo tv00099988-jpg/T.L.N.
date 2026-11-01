@@ -460,6 +460,12 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2022/09/16/soi-keo-pec-zwolle-vs-ado-den-haag-hang-2-ha-lan-2022-23-4-1609134606.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) PEC Zwolle vs ADO Den Haag
+https://hwyypull.ncctrials.com/live/stream-433829_lhd.m3u8?auth_key=1793512147-0-0-9475a2a7eb36c43e6b380c7ea95aa303
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2022/09/16/soi-keo-pec-zwolle-vs-ado-den-haag-hang-2-ha-lan-2022-23-4-1609134606.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) PEC Zwolle vs ADO Den Haag
+https://hwyypull.ncctrials.com/live/stream-433829_lsd.m3u8?auth_key=1793512207-0-0-dee1096c61f4aa7614cbd0008bc619c6
+
 #EXTINF:-1 tvg-logo="https://www.thestatszone.com/imager/211367/1785278311_b0464c6958.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ကိုမို vs ဗီနီဇီယာ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel4.m3u8|referer=https://xlz.domainkqt.cc/
@@ -493,6 +499,9 @@ https://live2.jorvakstreamcache.com/live/channel17.m3u8|referer=https://xlz.doma
 #EXTINF:-1 tvg-logo="https://www.svijetkladjenja.com/wp-content/uploads/2026/10/naslovna-telstar-utrecht-prognoza-eredivisie-20261029-1200x675.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Telstar vs Utrecht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://www.svijetkladjenja.com/wp-content/uploads/2026/10/naslovna-telstar-utrecht-prognoza-eredivisie-20261029-1200x675.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Telstar vs Utrecht
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1793512087-0-0-a6f0a82c297d9218288b156b02409589
 
 #EXTINF:-1 tvg-logo="https://www.svijetkladjenja.com/wp-content/uploads/2026/10/naslovna-telstar-utrecht-prognoza-eredivisie-20261029-1200x675.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Telstar vs Utrecht
 https://live05.miekgo.app/live/08552895.m3u8
