@@ -469,6 +469,9 @@ https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2026/11/02/nhan-dinh-bong-da-du-doan-pakhtakor-tashkent-vs-al-nassr-afc-champions-league-elite-hom-nay-0211002337.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Pakhtakor vs Al-Nassr
 https://live05.miekgo.app/live/08552895.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2026/11/02/nhan-dinh-bong-da-du-doan-pakhtakor-tashkent-vs-al-nassr-afc-champions-league-elite-hom-nay-0211002337.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Pakhtakor vs Al-Nassr
+http://filex.me:8080/live/MAINCORE/X3rMZTzddV/896003.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLnRCJKs/IMG-c615bbff-4d62-4908-b166-4906fa165029.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Tractor vs Neftchi Fergana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
