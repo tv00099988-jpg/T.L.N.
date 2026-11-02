@@ -518,6 +518,9 @@ https://live05.miekgo.app/live/14830711.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel20.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2025/07/31/soi-keo-zaglebie-lubin-vs-korona-kielce-vdqg-ba-lan-3107101839.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Zagłębie Lubin vs Korona Kielce
+https://hwyypull.ncctrials.com/live/stream-374391_lhd.m3u8?auth_key=1793638506-0-0-1bdbe68b202c69eaf0ba3cf550e8620e
+
 #EXTINF:-1 tvg-logo="https://statz.ai/og/h2h/19716309.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Radomiak Radom vs Śląsk Wrocław
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel10.m3u8|referer=https://xlz.domainkqt.cc/
