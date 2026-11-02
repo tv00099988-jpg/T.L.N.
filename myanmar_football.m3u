@@ -457,6 +457,9 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2026/11/02/nhan-dinh-bong-da-du-doan-pakhtakor-tashkent-vs-al-nassr-afc-champions-league-elite-hom-nay-0211002337.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Pakhtakor vs Al-Nassr
+https://pull.fmp.live/live/live_60871_lud.m3u8?auth_key=1793637811-0-0-436ce076e088241664c818cbc9da6274
+
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2026/11/02/nhan-dinh-bong-da-du-doan-pakhtakor-tashkent-vs-al-nassr-afc-champions-league-elite-hom-nay-0211002337.jpg" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Pakhtakor vs Al-Nassr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
