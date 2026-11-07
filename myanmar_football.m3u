@@ -461,6 +461,9 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=4cbe3a77b5fc35c3c3df1e3a6f1656f8&wsABSTime=1794068861|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) လိဒ်ယူနိုက်တက် vs စပါး
+https://pull.fmp.live/live/live_61387_lud.m3u8?auth_key=1794065643-0-0-fc249c21a2ea14cb952f373f05e815a1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) လိဒ်ယူနိုက်တက် vs စပါး
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
