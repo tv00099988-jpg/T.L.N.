@@ -493,8 +493,11 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live05.wecile.app/live/78905744.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) အယ်လ်ချီ vs ရီးရဲလ်ဘက်တစ်
+https://pull.fmp.live/sla/1-6acfa028daf8f9c59c92ed49.m3u8?auth_key=1794165362-0-0-2a9acf50f5ec2c5a061bc5accbdf4c8d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) အယ်လ်ချီ vs ရီးရဲလ်ဘက်တစ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) အယ်လ်ချီ vs ရီးရဲလ်ဘက်တစ်
 https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8
