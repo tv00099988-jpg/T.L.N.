@@ -875,6 +875,9 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live05.wecile.app/live/02456966.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(w) အက်သလက်တီကို vs ဘာစီလိုနာ
+https://pull.fmp.live/live/live_61825_lud.m3u8?auth_key=1794179450-0-0-fd86bd1ae26a9fbe126b8e22c606d8db
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(w) အက်သလက်တီကို vs ဘာစီလိုနာ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
