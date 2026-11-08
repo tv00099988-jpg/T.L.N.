@@ -725,6 +725,9 @@ https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(o) ဘရက်စ် vs လိုင်ယွန်
 https://live05.wecile.app/live/33860426.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(p) မန်ယူ vs အက်စတွန်ဗီလာ(မြန်မာအသံ)
+https://pull.fmp.live/live/live_61781_lud.m3u8?auth_key=1794166742-0-0-502e8e7a2017f00eb182b1658ad142a3
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(p) မန်ယူ vs အက်စတွန်ဗီလာ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
