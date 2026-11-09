@@ -473,6 +473,9 @@ https://live2.zktsva.app/live/300523.m3u8
 https://live05.wecile.app/live/78905744.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Saburtalo vs Gagra
+https://pull.fmp.live/sla/1-6ace4e8d8f7c293f9faa762d.m3u8?auth_key=1794261902-0-0-c3908c44eb002d985bcbe28c243811b6
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Saburtalo vs Gagra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
 
