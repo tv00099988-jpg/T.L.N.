@@ -467,6 +467,9 @@ https://live2.zktsva.app/live/294335.m3u8
 https://live05.wecile.app/live/08552895.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဂျာမဏီ U19 vs ဆွိဒင် U19
+https://pull.fmp.live/sla/1-6aee1cdf70a52b8b4ecfbc22.m3u8?auth_key=1794510002-0-0-aeda77ff31fa39df6f34def30d41d067
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဂျာမဏီ U19 vs ဆွိဒင် U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel10.m3u8|referer=https://xlz.domainkqt.cc/
 
