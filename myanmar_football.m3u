@@ -479,19 +479,12 @@ https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) ဂျာမဏီ U19 vs ဆွိဒင် U19
 https://live05.wecile.app/live/07808742.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ပေါ်တူဂီ U19 vs လစ်သူနီးယား U19
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဂါနာ vs ဆိုမာလီ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ပေါ်တူဂီ U19 vs လစ်သူနီးယား U19
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794492248-0-0-7af281baac2071beab33b575c0512be5
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ပေါ်တူဂီ U19 vs လစ်သူနီးယား U19
-https://live05.wecile.app/live/75915087.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဂါနာ vs ဆိုမာလီ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel4.m3u8|referer=https://xlz.domainkqt.cc/
+https://pull.fmp.live/sla/1-6ad4e60ae15cf29d8322177a.m3u8?auth_key=1794518642-0-0-fd82788535309f2ac9f88c766e1223a0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) ဂါနာ vs ဆိုမာလီ
 https://live2.zktsva.app/live/289650.m3u8
@@ -663,6 +656,9 @@ https://live05.wecile.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(i) ချက် vs စပိန်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel13.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(i) ချက် vs စပိန်
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794500828-0-0-20966bee83efd652afb8aa02fb85b2d7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(i) ချက် vs စပိန်
 https://live2.zktsva.app/live/304565.m3u8
