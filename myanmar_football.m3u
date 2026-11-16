@@ -517,7 +517,7 @@ https://live05.wecile.app/live/08552895.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Faroe Islands vs Moldova a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://strmfree.st/live-externalcdn/moldova-vs-faroe-islands1080p/index.m3u8?_t=vE-Ka2N_sH8FuvhxafJj9A&_ta=WhTL7X1UEXUAXPuWj272wQ&_e=1794873590&_n=a8161d2f52b8e762&_s=WtDw2ALja0Yhi8_imNx9WQ&_sa=RXJj5xvwNtUapg34kpYt9w|referer=https://strmfree.st/
+https://p19-oec-general-useast5.ttcdn-us.com/obj/tos-useast5-i-omjb5zjo8w-tx/b4e2388fdf8443719a0234ad857c837e|referer=https://strmfree.st/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Faroe Islands vs Moldova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -685,3 +685,5 @@ https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Canada vs Guatemala
 https://live05.wecile.app/live/59444581.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) tes
+https://p19-oec-general-useast5.ttcdn-us.com/obj/tos-useast5-i-omjb5zjo8w-tx/b4e2388fdf8443719a0234ad857c837e
