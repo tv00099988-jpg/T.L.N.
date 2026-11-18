@@ -917,6 +917,9 @@ https://live2.zktsva.app/live/796315.m3u8
 https://live05.wecile.app/live/49572724.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(p) Mexico vs Jamaica
+https://pull.fmp.live/sla/1-6aed3bc4b29a32ad12266226.m3u8?auth_key=1794990842-0-0-e8e7432488e548ce5c1b1e0f8cf8a928
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(p) Mexico vs Jamaica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
 
