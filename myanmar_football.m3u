@@ -469,6 +469,19 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Western Sydney Wanderers FC vs Adelaide United
 https://live05.wecile.app/live/33982309.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) RUFC vs Chanmari
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=6ce5a925affaf366df846fc36ee1c183&wsABSTime=1795207173|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) RUFC vs Chanmari
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) RUFC vs Chanmari
+https://live2.zktsva.app/live/301238.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) RUFC vs Chanmari
+https://live05.wecile.app/live/88508431.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Kalba vs Sharjah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel20/playlist.m3u8?wsSecret=2db9f16b54a66dddb71539aa46e8fd55&wsABSTime=1795180167|referer=https://xlz.domainkqt.cc/
