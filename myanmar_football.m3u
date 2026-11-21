@@ -457,6 +457,9 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32030/index.m3u8
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNg7nLdz/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) မန်စီးတီး vs ဖူလ်ဟမ်
+https://pull.fmp.live/live/live_62812_lud.m3u8?auth_key=1795273775-0-0-d00fb2cb55b93a59241ed94174c21f0a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNg7nLdz/image.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) မန်စီးတီး vs ဖူလ်ဟမ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
 
