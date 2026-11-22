@@ -478,6 +478,9 @@ https://live05.wecile.app/live/97885009.m3u8
 https://pull.fmp.live/sla/1-6ae3668bc60fabad17aa26f1.m3u8?auth_key=1795366862-0-0-9239c6514a72b60e3d602ec98d7fa1dd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Juventus vs Venezia
+https://pull.fmp.live/live/live_63036_lud.m3u8?auth_key=1795357592-0-0-fd8e0e8d01529ffb0164b9323970e7e1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Juventus vs Venezia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.jorvakstreamcache.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
 
