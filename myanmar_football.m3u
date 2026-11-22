@@ -571,7 +571,7 @@ https://live05.wecile.app/live/87547578.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=7cb758ae664f3643ac74d5c218531d56&wsABSTime=1795355483|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Hull vs Brighton t
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Hull vs Brighton 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live2.tanrixstreamorigin.com/live/channel15.m3u8
 
@@ -740,7 +740,7 @@ https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=13ff840f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(q) Milan vs Frosinone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.tanrixstreamorigin.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001795362740-0-0-dcbe9b963bb15b453a76b2506db17dc6|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(q) Milan vs Frosinone
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
