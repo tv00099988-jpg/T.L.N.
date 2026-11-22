@@ -708,6 +708,9 @@ https://gavang33.dev/_gv-live-feed/796315.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(o) Lorient vs Rennes
 https://live05.wecile.app/live/07808742.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(p) Liverpool vs Man Utd မြန်မာအသံ
+https://pull.fmp.live/live/live_63140_lud.m3u8?auth_key=1795376110-0-0-7bc110e63ff3a5e3eb0e8cbf6e93745b
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(p) Liverpool vs Man Utd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=9c4215981b33d91c14b1c4c90732d15d&wsABSTime=1795405035|referer=https://xlz.domainkqt.cc/
