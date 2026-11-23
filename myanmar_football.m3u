@@ -460,9 +460,24 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/32048/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Spain U-17 vs Fiji U-17
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Spain U-17 vs Fiji U-17
+https://gavang33.dev/_gv-live-feed/432017.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Spain U-17 vs Fiji U-17
+https://live05.wecile.app/live/33982309.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Tajikistan U-17 vs Croatia U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Tajikistan U-17 vs Croatia U-17
+https://gavang33.dev/_gv-live-feed/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Tajikistan U-17 vs Croatia U-17
+https://live05.wecile.app/live/75748097.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Uzbekistan U-17 vs Jamaica U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -472,51 +487,204 @@ https://live200.kravonstreamdelivery.com/live/channel18.m3u8|referer=https://xlz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Senegal U-17 vs Cuba U-17
+https://gavang33.dev/_gv-live-feed/301263.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Senegal U-17 vs Cuba U-17
+https://live05.wecile.app/live/78905744.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Neftchi Fergana vs Al-Hilal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel15.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Neftchi Fergana vs Al-Hilal
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Neftchi Fergana vs Al-Hilal
+https://gavang33.dev/_gv-live-feed/306290.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(d) Neftchi Fergana vs Al-Hilal
+https://live05.wecile.app/live/08552895.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Italy U-17 vs Ivory Coast U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel21.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Italy U-17 vs Ivory Coast U-17
+https://gavang33.dev/_gv-live-feed/307240.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(e) Italy U-17 vs Ivory Coast U-17
+https://live05.wecile.app/live/75915087.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) El Gouna vs Zamalek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel24.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) El Gouna vs Zamalek
+https://live05.wecile.app/live/07808742.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Wadi Degla vs Al Ittihad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Wadi Degla vs Al Ittihad
+https://live05.wecile.app/live/18812304.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Morocco U-17 vs China U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel16.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Morocco U-17 vs China U-17
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Morocco U-17 vs China U-17
+https://gavang33.dev/_gv-live-feed/432017.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Morocco U-17 vs China U-17
+https://live05.wecile.app/live/33860426.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Mali U-17 vs Belgium U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel19.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Mali U-17 vs Belgium U-17
+https://gavang33.dev/_gv-live-feed/303098.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Mali U-17 vs Belgium U-17
+https://live05.wecile.app/live/75748097.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Vietnam U-17 vs New Zealand U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Vietnam U-17 vs New Zealand U-17
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Vietnam U-17 vs New Zealand U-17
+https://gavang33.dev/_gv-live-feed/304565.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Vietnam U-17 vs New Zealand U-17
+https://live05.wecile.app/live/14830711.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Tractor vs Al Wasl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Tractor vs Al Wasl
+https://gavang33.dev/_gv-live-feed/301263.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Tractor vs Al Wasl
+https://live05.wecile.app/live/78905744.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al Ain vs Esteghlal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al Ain vs Esteghlal
+https://gavang33.dev/_gv-live-feed/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al Ain vs Esteghlal
+https://live05.wecile.app/live/08552895.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al-Shamal vs Al-Ahli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel6.m3u8|referer=https://xlz.domainkqt.cc/
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(i) test 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live200.kravonstreamdelivery.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al-Shamal vs Al-Ahli
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(i) test 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al-Shamal vs Al-Ahli
+https://gavang33.dev/_gv-live-feed/796315.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al-Shamal vs Al-Ahli
+https://live05.wecile.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(i) Başakşehir vs Çorum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel23.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(i) Başakşehir vs Çorum
+https://live05.wecile.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Al Ahly vs Pyramids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel17.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Al Ahly vs Pyramids
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Brøndby vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Brøndby vs Midtjylland
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Brøndby vs Midtjylland
+https://gavang33.dev/_gv-live-feed/796315.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Brøndby vs Midtjylland
+https://live05.wecile.app/live/88508431.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Wieczysta Kraków vs Motor Lublin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel13.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Al-Quwa Al-Jawiya vs Al-Gharafa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel24.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Al-Quwa Al-Jawiya vs Al-Gharafa
+https://gavang33.dev/_gv-live-feed/300523.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Al-Quwa Al-Jawiya vs Al-Gharafa
+https://live05.wecile.app/live/16226575.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Al-Ittihad vs Pakhtakor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel16.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Al-Ittihad vs Pakhtakor
+https://gavang33.dev/_gv-live-feed/304565.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Al-Ittihad vs Pakhtakor
+https://live05.wecile.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(l) Monza vs Fiorentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel11.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(l) Monza vs Fiorentina
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(l) Monza vs Fiorentina
+https://gavang33.dev/_gv-live-feed/301238.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(l) Monza vs Fiorentina
+https://live05.wecile.app/live/87547578.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Brentford vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Brentford vs Everton
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Brentford vs Everton
+https://gavang33.dev/_gv-live-feed/294335.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Brentford vs Everton
+https://live05.wecile.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Levante vs Elche
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+https://live200.kravonstreamdelivery.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Levante vs Elche
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Levante vs Elche
+https://gavang33.dev/_gv-live-feed/303098.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(m) Levante vs Elche
+https://live05.wecile.app/live/08552895.m3u8
