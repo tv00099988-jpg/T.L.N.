@@ -483,6 +483,9 @@ https://live05.wecile.app/live/75748097.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Uzbekistan U-17 vs Jamaica U-17
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1795441329-0-0-7108f40df37a10fab1b73695a3b4f906
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(c) Senegal U-17 vs Cuba U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel22.m3u8|referer=https://xlz.domainkqt.cc/
