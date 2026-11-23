@@ -521,11 +521,17 @@ https://live05.wecile.app/live/75915087.m3u8
 https://live200.kravonstreamdelivery.com/live/channel24.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) El Gouna vs Zamalek
+https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) El Gouna vs Zamalek
 https://live05.wecile.app/live/07808742.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Wadi Degla vs Al Ittihad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel12.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Wadi Degla vs Al Ittihad
+https://playback.livetl002.com/live/6aef22d1f72fb30b985aafbe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(f) Wadi Degla vs Al Ittihad
 https://live05.wecile.app/live/18812304.m3u8
@@ -579,6 +585,9 @@ https://live05.wecile.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al Ain vs Esteghlal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al Ain vs Esteghlal
+https://playback.livetl002.com/live/6afd3d6e53914a788517a0db.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Al Ain vs Esteghlal
 https://gavang33.dev/_gv-live-feed/300523.m3u8
