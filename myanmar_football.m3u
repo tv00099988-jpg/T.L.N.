@@ -602,7 +602,10 @@ https://live05.wecile.app/live/18812304.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Rustavi vs Meshakhte Tkibuli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
-https://live200.kravonstreamdelivery.com/live/channel23.m3u8|referer=https://xlz.domainkqt.cc/
+https://live200.kravonstreamdelivery.com/live/channel7.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(g) Rustavi vs Meshakhte Tkibuli
+https://pull.fmp.live/sla/1-6aef441814cfe5ec67c22222.m3u8?auth_key=1795641962-0-0-35efa3457ea5b3143315ccf2041700b8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(h) Australia U-17 vs Mozambique U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
