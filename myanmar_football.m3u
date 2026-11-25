@@ -679,6 +679,9 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(i) Kuwait SC vs Al Wahda
 https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1795579809-0-0-f0af849d8e59708be4fd102d7b6f033e
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Sabah vs Barcelona မြန်မာအသံ
+https://pull.fmp.live/live/live_63392_lud.m3u8?auth_key=1795638389-0-0-f31be399db7d39304072b25711048540
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(j) Sabah vs Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live200.kravonstreamdelivery.com/live/channel1.m3u8|referer=https://xlz.domainkqt.cc/
