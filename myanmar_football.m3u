@@ -702,6 +702,9 @@ https://live05.wecile.app/live/78905744.m3u8
 https://live3979.zundrixmediapipeline.com/live/channel18.m3u8|referer=https://xlz.domainkqt.cc/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Union vs Lech Poznań
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Union vs Lech Poznań
 https://gavang33.dev/_gv-live-feed/303098.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(k) Union vs Lech Poznań
@@ -878,6 +881,9 @@ https://live05.wecile.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(l) NEC vs Rennes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 https://live3979.zundrixmediapipeline.com/live/channel2.m3u8|referer=https://xlz.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(l) NEC vs Rennes
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(l) NEC vs Rennes
 https://gavang33.dev/_gv-live-feed/741294.m3u8
