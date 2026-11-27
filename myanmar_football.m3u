@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="All Sports", BEIN SPORTS 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="All Sports", BEIN SPORTS 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="All Sports", BEIN SPORTS 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRMv4vdr/channels4-profile.jpg" group-title="All Sports", MoNoMax
 http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1776175.ts
 
@@ -468,6 +477,9 @@ https://gavang33.dev/_gv-live-feed/300523.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(a) Al Kholood vs Al-Khaleej
 https://live05.wecile.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Honduras U-17 vs Japan U-17
+http://5.mdtv.me:80/play/myjBkAr-XIXUrJy94Dw5YEpDRie29V1pkcAeyvPJYyyt-YPJ9ZviBnPFnBm5Uc2nE0KHF0kZUIV9InJ9QD5yktZB8QEyxvRgvrhRjx9pjoyEtSMBJoxY9YiKbo9p_ySWbEAJ3Uc_4GsNXOU0QVW0l88eHnNEqELSmji6DzTHeno?ext=.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLnrsy/3068780-ico.png" group-title="ယနေ့ည ပွဲစဥ်များ",(b) Honduras U-17 vs Japan U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
